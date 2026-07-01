@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<title>Bhaavan Myneni — Resume</title>
+<style>
+  * { box-sizing: border-box; }
+  body { font-family: "Georgia", "Times New Roman", serif; color: #111; max-width: 8.5in; margin: 0 auto; padding: 0.5in; line-height: 1.35; font-size: 10.5pt; }
+  h1 { text-align: center; margin: 0; font-size: 22pt; letter-spacing: .5px; }
+  .contact { text-align: center; font-size: 9.5pt; color: #333; margin: 4px 0 12px; }
+  h2 { font-size: 11.5pt; text-transform: uppercase; letter-spacing: 1px; border-bottom: 1.5px solid #111; padding-bottom: 2px; margin: 14px 0 6px; }
+  .row { display: flex; justify-content: space-between; font-weight: bold; }
+  .row .right { font-weight: normal; font-style: italic; }
+  .sub { font-style: italic; margin: 0 0 2px; }
+  ul { margin: 4px 0 8px; padding-left: 18px; }
+  li { margin: 2px 0; }
+  .summary { margin: 6px 0 4px; }
+  .skills p { margin: 3px 0; }
+</style>
+</head>
+<body>
+  <h1>Bhaavan Myneni</h1>
+  <div class="contact">Bloomington, IN · +1 (930) 333-1573 · bmyneni@iu.edu · LinkedIn</div>
+
+  <h2>Summary</h2>
+  <p class="summary">{{SUMMARY}}</p>
+
+  <h2>Education</h2>
+  <div class="row"><span>Indiana University Bloomington</span><span class="right">Aug 2024 – May 2026</span></div>
+  <p class="sub">Master's, Data Science (GPA: 3.71/4)</p>
+  <div class="row"><span>Prasad V. Potluri Siddhartha Institute of Technology, Vijayawada</span><span class="right">Jun 2020 – May 2024</span></div>
+  <p class="sub">B.Tech, Computer Science and Engineering (GPA: 3.45/4)</p>
+
+  <h2>Work Experience</h2>
+  <div class="row"><span>Indiana University Bloomington — Research Fellow, Data Science</span><span class="right">Jan 2026 – May 2026</span></div>
+  <ul>{{EXP_IU}}</ul>
+
+  <div class="row"><span>Youth Service Bureau of Monroe County &amp; BTCC — Data Intern</span><span class="right">Aug 2025 – Dec 2025</span></div>
+  <ul>{{EXP_YSB}}</ul>
+
+  <h2>Projects</h2>
+  <div class="row"><span>E-commerce Sales &amp; Customer 360</span><span class="right">Jan 2025 – Aug 2025</span></div>
+  <ul>{{PROJ_ECOM}}</ul>
+  <div class="row"><span>Trash Classification &amp; Recyclability Assistant (YOLO)</span><span class="right">Jan 2024 – Mar 2024</span></div>
+  <ul>{{PROJ_YOLO}}</ul>
+
+  <h2>Technical Skills</h2>
+  <div class="skills">{{SKILLS}}</div>
+
+  <h2>Publications &amp; Certifications</h2>
+  <ul>
+    <li>Published "Trash Classification and Recyclability Assistant using YOLO Variants" — IIETA.</li>
+    <li>NPTEL: Programming &amp; Data Structures using Python; Programming in Java.</li>
+  </ul>
+</body>
+</html>

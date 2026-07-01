@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Job Search Tracker — Bhaavan Myneni</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header class="site-header">
+    <div class="header-inner">
+      <div class="brand">
+        <h1>Job Search Tracker · <span class="accent">BM</span></h1>
+        <p class="tagline">Data Scientist · Data Engineer · ML Engineer · Data Analyst — US &amp; Remote · Sponsorship-aware · Auto-fetched daily</p>
+      </div>
+      <div class="header-actions">
+        <span id="lastUpdated" class="last-updated">Loading…</span>
+        <button id="refreshBtn" class="btn btn-ghost" title="Reload data">&#8635; Refresh</button>
+        <a id="fetchBtn" class="btn btn-primary" href="#" target="_blank" rel="noopener">&#9889; Fetch New Jobs</a>
+      </div>
+    </div>
+  </header>
+
+  <main class="container">
+    <!-- Stats -->
+    <section class="stats" id="stats">
+      <div class="stat"><span class="stat-num" id="statTotal">—</span><span class="stat-label">Total Jobs</span></div>
+      <div class="stat"><span class="stat-num" id="statToday">—</span><span class="stat-label">Posted This Week</span></div>
+      <div class="stat"><span class="stat-num" id="statSponsor">—</span><span class="stat-label">Sponsor-Friendly</span></div>
+      <div class="stat"><span class="stat-num" id="statApplied">—</span><span class="stat-label">Applied</span></div>
+      <div class="stat"><span class="stat-num" id="statInterview">—</span><span class="stat-label">In Interview</span></div>
+      <div class="stat"><span class="stat-num" id="statRejected">—</span><span class="stat-label">Rejected</span></div>
+    </section>
+
+    <!-- Filters -->
+    <section class="filters">
+      <input type="search" id="searchInput" class="search" placeholder="&#128269;  Search role or company…" />
+      <select id="roleFilter">
+        <option value="">All Roles</option>
+        <option value="Data Scientist">Data Scientist</option>
+        <option value="Data Engineer">Data Engineer</option>
+        <option value="ML Engineer">ML Engineer</option>
+        <option value="Data Analyst">Data Analyst</option>
+      </select>
+      <select id="statusFilter">
+        <option value="">All Statuses</option>
+        <option value="Not Applied">Not Applied</option>
+        <option value="Applied">Applied</option>
+        <option value="In Interview">In Interview</option>
+        <option value="Rejected">Rejected</option>
+      </select>
+      <select id="sourceFilter">
+        <option value="">All Sources</option>
+        <option value="LinkedIn">LinkedIn</option>
+        <option value="Indeed">Indeed</option>
+        <option value="Glassdoor">Glassdoor</option>
+        <option value="ZipRecruiter">ZipRecruiter</option>
+      </select>
+      <select id="matchFilter">
+        <option value="">All Match Scores</option>
+        <option value="high">High &#9733;&#9733;&#9733; (7+)</option>
+        <option value="medium">Medium &#9733;&#9733; (4–6)</option>
+        <option value="low">Low &#9733; (1–3)</option>
+      </select>
+      <select id="sponsorFilter">
+        <option value="">Sponsorship: Any</option>
+        <option value="friendly">Sponsor-Friendly only</option>
+        <option value="hide">Hide "No Sponsorship"</option>
+      </select>
+      <select id="sortBy">
+        <option value="match">Sort: Best Match</option>
+        <option value="newest">Sort: Newest First</option>
+      </select>
+    </section>
+
+    <!-- Table -->
+    <section class="table-wrap">
+      <table id="jobsTable">
+        <thead>
+          <tr>
+            <th>Job Role</th>
+            <th>Company</th>
+            <th>Location</th>
+            <th>Posted</th>
+            <th>Match</th>
+            <th>Sponsor</th>
+            <th>Job Link</th>
+            <th>Application Status</th>
+          </tr>
+        </thead>
+        <tbody id="jobsBody"></tbody>
+      </table>
+
+      <div id="emptyState" class="empty hidden">
+        <div class="empty-icon">&#128203;</div>
+        <h3>No jobs found</h3>
+        <p>Click <strong>Fetch New Jobs</strong> to run the GitHub Action and pull today's listings, or adjust your filters.</p>
+      </div>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <p>Built for Bhaavan Myneni · Data updated daily via GitHub Actions · Application status saved in your browser</p>
+  </footer>
+
+  <script src="main.js"></script>
+</body>
+</html>

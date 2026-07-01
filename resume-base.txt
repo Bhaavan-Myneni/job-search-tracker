@@ -1,0 +1,28 @@
+CANDIDATE: Bhaavan Myneni
+LOCATION: Bloomington, IN (open to relocation & remote, US)
+WORK AUTH: F-1 / OPT — needs visa sponsorship
+
+EDUCATION
+- MS Data Science, Indiana University Bloomington (2024–2026), GPA 3.71
+- B.Tech CSE, PVPSIT Vijayawada (2020–2024), GPA 3.45
+
+EXPERIENCE — Research Fellow, IU Bloomington (Jan–May 2026)
+- Automated PDF architectural plans -> training data with Tesseract OCR + OpenCV wall detection; 8-fold augmentation.
+- Built custom 7-level UNet generator + 5-channel Pix2Pix GAN (Hinge + L1 loss) for floor-plan generation.
+- Root-cause debugging of coordinate scaling; watershed debug overlays; production checkpoint selection.
+
+EXPERIENCE — Data Intern, Youth Service Bureau of Monroe County & BTCC (Aug–Dec 2025)
+- Python ETL integrating ACS + CDC WONDER; -30% processing time.
+- Youth well-being analysis (Pandas, Tableau); 5+ policy recommendations at 2025 MC3 Summit.
+- Built public interactive data-viz website; +40% data accessibility.
+
+PROJECT — E-commerce Sales & Customer 360 (2025)
+- End-to-end ELT, 500MB+ into BigQuery; PySpark on 300k+ records; Star Schema (10x faster queries); Airflow + Docker (2h -> 15min).
+
+PROJECT — Trash Classification with YOLO (2024)
+- 96.24% accuracy comparing YOLOv5/v7; 67.5% mAP@0.5 on 1,370 instances; custom 4,027-image dataset; real-time detection + SVM.
+
+CORE SKILLS
+Python, Pandas, PySpark, scikit-learn, SQL, Java, C++; Airflow, dbt, Kafka, ETL/ELT, Spark, Hadoop;
+PostgreSQL, MySQL, MongoDB, Snowflake, BigQuery, Redshift; AWS (S3, Glue, Redshift, EMR), GCP (BigQuery, Dataflow), Azure Data Factory;
+TensorFlow, PyTorch, YOLO, CNNs, model deployment, Flask, FastAPI; Tableau, Power BI, Matplotlib, Seaborn.

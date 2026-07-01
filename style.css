@@ -1,0 +1,136 @@
+:root {
+  --bg: #0f1220;
+  --bg-elev: #171a2b;
+  --bg-elev-2: #1f2438;
+  --border: #2a3050;
+  --text: #e7e9f3;
+  --text-dim: #9aa0bd;
+  --accent: #6c8cff;
+  --accent-2: #37d3a0;
+  --warn: #ffb454;
+  --danger: #ff6b7a;
+  --shadow: 0 8px 30px rgba(0,0,0,.35);
+  --radius: 14px;
+}
+
+* { box-sizing: border-box; }
+html, body { margin: 0; padding: 0; }
+body {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  background: radial-gradient(1200px 600px at 80% -10%, #1a2140 0%, var(--bg) 55%);
+  color: var(--text);
+  min-height: 100vh;
+}
+
+/* Header */
+.site-header {
+  position: sticky; top: 0; z-index: 20;
+  backdrop-filter: blur(10px);
+  background: rgba(15,18,32,.8);
+  border-bottom: 1px solid var(--border);
+}
+.header-inner {
+  max-width: 1400px; margin: 0 auto; padding: 16px 24px;
+  display: flex; align-items: center; justify-content: space-between; gap: 16px; flex-wrap: wrap;
+}
+.brand h1 { margin: 0; font-size: 20px; font-weight: 700; letter-spacing: .2px; }
+.brand .accent { color: var(--accent); }
+.tagline { margin: 4px 0 0; font-size: 12.5px; color: var(--text-dim); }
+.header-actions { display: flex; align-items: center; gap: 10px; }
+.last-updated { font-size: 12px; color: var(--text-dim); }
+
+/* Buttons */
+.btn {
+  border: 1px solid var(--border); background: var(--bg-elev);
+  color: var(--text); padding: 8px 14px; border-radius: 10px;
+  font-size: 13px; font-weight: 600; cursor: pointer; text-decoration: none;
+  transition: .15s ease; display: inline-flex; align-items: center; gap: 6px;
+}
+.btn:hover { border-color: var(--accent); transform: translateY(-1px); }
+.btn-primary { background: linear-gradient(135deg, var(--accent), #4d6bff); border-color: transparent; }
+.btn-ghost { background: transparent; }
+
+/* Layout */
+.container { max-width: 1400px; margin: 0 auto; padding: 24px; }
+
+/* Stats */
+.stats {
+  display: grid; grid-template-columns: repeat(6, 1fr); gap: 12px; margin-bottom: 20px;
+}
+.stat {
+  background: var(--bg-elev); border: 1px solid var(--border); border-radius: var(--radius);
+  padding: 16px; text-align: center; box-shadow: var(--shadow);
+}
+.stat-num { display: block; font-size: 26px; font-weight: 800; }
+.stat-label { font-size: 11.5px; color: var(--text-dim); text-transform: uppercase; letter-spacing: .5px; }
+
+/* Filters */
+.filters {
+  display: flex; gap: 10px; flex-wrap: wrap; margin-bottom: 18px; align-items: center;
+}
+.search { flex: 1 1 260px; min-width: 220px; }
+.filters input, .filters select {
+  background: var(--bg-elev); color: var(--text); border: 1px solid var(--border);
+  padding: 9px 12px; border-radius: 10px; font-size: 13px; outline: none;
+}
+.filters input:focus, .filters select:focus { border-color: var(--accent); }
+
+/* Table */
+.table-wrap {
+  background: var(--bg-elev); border: 1px solid var(--border); border-radius: var(--radius);
+  overflow: hidden; box-shadow: var(--shadow);
+}
+table { width: 100%; border-collapse: collapse; font-size: 13.5px; }
+thead th {
+  text-align: left; padding: 14px 16px; background: var(--bg-elev-2);
+  color: var(--text-dim); font-size: 11.5px; text-transform: uppercase; letter-spacing: .5px;
+  border-bottom: 1px solid var(--border); position: sticky; top: 0;
+}
+tbody td { padding: 13px 16px; border-bottom: 1px solid var(--border); vertical-align: middle; }
+tbody tr:hover { background: rgba(108,140,255,.06); }
+tbody tr:last-child td { border-bottom: none; }
+.job-role { font-weight: 600; }
+.company { color: var(--text-dim); }
+
+/* Match stars */
+.match { white-space: nowrap; font-weight: 700; }
+.match.high { color: var(--accent-2); }
+.match.medium { color: var(--warn); }
+.match.low { color: var(--text-dim); }
+.match .score { font-size: 11px; color: var(--text-dim); margin-left: 4px; }
+
+/* Sponsor pill */
+.pill { font-size: 11px; padding: 3px 9px; border-radius: 999px; font-weight: 700; display: inline-block; }
+.pill.friendly { background: rgba(55,211,160,.15); color: var(--accent-2); }
+.pill.unknown { background: rgba(154,160,189,.15); color: var(--text-dim); }
+.pill.no { background: rgba(255,107,122,.15); color: var(--danger); }
+
+/* Job link */
+.joblink { color: var(--accent); text-decoration: none; font-weight: 600; }
+.joblink:hover { text-decoration: underline; }
+
+/* Status select */
+.status-select {
+  background: var(--bg-elev-2); color: var(--text); border: 1px solid var(--border);
+  border-radius: 8px; padding: 6px 8px; font-size: 12.5px; cursor: pointer;
+}
+.status-select[data-status="Applied"] { border-color: var(--accent); }
+.status-select[data-status="In Interview"] { border-color: var(--warn); }
+.status-select[data-status="Rejected"] { border-color: var(--danger); }
+
+/* Empty state */
+.empty { text-align: center; padding: 60px 20px; }
+.empty-icon { font-size: 40px; }
+.empty h3 { margin: 10px 0 6px; }
+.empty p { color: var(--text-dim); font-size: 14px; }
+.hidden { display: none; }
+
+/* Footer */
+.site-footer { text-align: center; padding: 30px; color: var(--text-dim); font-size: 12px; }
+
+/* Responsive */
+@media (max-width: 900px) {
+  .stats { grid-template-columns: repeat(3, 1fr); }
+  .table-wrap { overflow-x: auto; }
+  table { min-width: 820px; }
+}
