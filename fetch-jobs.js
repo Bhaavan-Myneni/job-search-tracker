@@ -56,7 +56,11 @@ async function jsearch(query, page = 1) {
     return [];
   }
   const json = await res.json();
-  return json.data || [];
+  // /search-v2 nests jobs under data.jobs; older /search returns data as an array
+  const d = json.data;
+  if (Array.isArray(d)) return d;
+  if (d && Array.isArray(d.jobs)) return d.jobs;
+  return [];
 }
 
 function scoreJob(text) {
