@@ -42,7 +42,18 @@ async function loadJobs(bust) {
     ALL_JOBS = [];
     document.getElementById("lastUpdated").textContent = "No data yet";
   }
+  populateSources();
   render();
+}
+
+// Populate the Source filter with every source present in the data
+function populateSources() {
+  const sel = document.getElementById("sourceFilter");
+  const current = sel.value;
+  const sources = [...new Set(ALL_JOBS.map(j => j.source).filter(Boolean))].sort();
+  sel.innerHTML = '<option value="">All Sources</option>' +
+    sources.map(s => `<option value="${esc(s)}">${esc(s)}</option>`).join("");
+  if ([...sel.options].some(o => o.value === current)) sel.value = current;
 }
 
 // ---- Render ----

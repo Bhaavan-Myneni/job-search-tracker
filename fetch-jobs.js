@@ -9,7 +9,13 @@ const fs = require("fs");
 
 const RAPIDAPI_KEY = process.env.RAPIDAPI_KEY;
 const OUT_FILE = "jobs.json";
-const MAX_JOBS = 200;
+const MAX_JOBS = 300;
+const MAX_PAGES = 2;   // pages per query (more pages = broader coverage; uses more JSearch quota)
+
+// Sources that JSearch cannot fetch (auth-gated) and that we add manually,
+// e.g. Handshake. Jobs from these sources are PRESERVED across daily runs
+// instead of being wiped by the fetch.
+const MANUAL_SOURCES = ["Handshake"];
 
 // ---- What we search for ----
 const QUERIES = [
@@ -88,19 +94,34 @@ function normalize(job, roleCategory) {
   };
 }
 
+function loadPreservedJobs() {
+  // Keep manually-added jobs (e.g. Handshake) across daily runs.
+  try {
+    const prev = JSON.parse(fs.readFileSync(OUT_FILE, "utf8"));
+    const list = prev.jobs || prev || [];
+    return list.filter(j => MANUAL_SOURCES.includes(j.source));
+  } catch (e) { return []; }
+}
+
 async function main() {
   if (!RAPIDAPI_KEY) { console.error("Missing RAPIDAPI_KEY"); process.exit(1); }
 
   const seen = new Set();
   let jobs = [];
 
+  // Preserve manual-source jobs (Handshake, etc.) first
+  const preserved = loadPreservedJobs();
+  for (const j of preserved) { if (j.id) { seen.add(j.id); jobs.push(j); } }
+
   for (const { q, role } of QUERIES) {
-    const raw = await jsearch(q, 1);
-    for (const r of raw) {
-      if (!r.job_id || seen.has(r.job_id)) continue;
-      if (EXCLUDE_TITLE.test(r.job_title || "")) continue;   // drop senior/leadership
-      seen.add(r.job_id);
-      jobs.push(normalize(r, role));
+    for (let page = 1; page <= MAX_PAGES; page++) {
+      const raw = await jsearch(q, page);
+      for (const r of raw) {
+        if (!r.job_id || seen.has(r.job_id)) continue;
+        if (EXCLUDE_TITLE.test(r.job_title || "")) continue;   // drop senior/leadership
+        seen.add(r.job_id);
+        jobs.push(normalize(r, role));
+      }
     }
   }
 
