@@ -1,28 +1,69 @@
 CANDIDATE: Bhaavan Myneni
 LOCATION: Bloomington, IN (open to relocation & remote, US)
+CONTACT: +1 (930) 333-1573 | bmyneni@iu.edu | github.com/Bhaavan-Myneni | LinkedIn
 WORK AUTH: F-1 / OPT — needs visa sponsorship
+TARGET ROLES: Data Scientist, Data Engineer, ML Engineer, Data Analyst (entry–mid)
+
+SUMMARY
+MS Data Science candidate (IU Bloomington, GPA 3.71) who builds production-style, end-to-end data
+platforms — from PostgreSQL warehouses and ETL pipelines to trained/served ML models. Comfortable
+across the stack: Python/SQL/PySpark, XGBoost + SHAP, FastAPI + Streamlit, Airflow, Docker, and cloud
+(AWS/GCP). Published ML researcher. Track record of turning large, messy data into deployed products
+with measurable business impact.
 
 EDUCATION
-- MS Data Science, Indiana University Bloomington (2024–2026), GPA 3.71
-- B.Tech CSE, PVPSIT Vijayawada (2020–2024), GPA 3.45
+- MS Data Science, Indiana University Bloomington (Aug 2024 – May 2026), GPA 3.71/4
+- B.Tech Computer Science & Engineering, PVPSIT Vijayawada (2020–2024), GPA 3.45/4
 
-EXPERIENCE — Research Fellow, IU Bloomington (Jan–May 2026)
-- Automated PDF architectural plans -> training data with Tesseract OCR + OpenCV wall detection; 8-fold augmentation.
-- Built custom 7-level UNet generator + 5-channel Pix2Pix GAN (Hinge + L1 loss) for floor-plan generation.
-- Root-cause debugging of coordinate scaling; watershed debug overlays; production checkpoint selection.
+SKILLS
+- Languages/DS: Python, Pandas, NumPy, PySpark, scikit-learn, SQL, Java, C++, statistics, regression
+- Data Engineering: Airflow, dbt, Kafka, ETL/ELT, Spark/SparkSQL, Hadoop, DuckDB, SQLAlchemy
+- Databases/Warehousing: PostgreSQL, MySQL, MongoDB, Snowflake, BigQuery, Redshift
+- Cloud/DevOps: AWS (S3, Glue, Redshift, EMR), GCP (BigQuery, Dataflow), Azure Data Factory, Docker, Render, Netlify
+- ML/AI: TensorFlow, PyTorch, XGBoost, SHAP, YOLO/CNNs, GANs (Pix2Pix), model deployment, FastAPI, Flask
+- Visualization: Tableau, Power BI, Plotly, Chart.js, Matplotlib, Seaborn, Streamlit
+
+EXPERIENCE — Research Fellow, Faculty Assistance in Data Science (FADS 26), IU Bloomington (Jan–May 2026)
+Project: Global Muse-Gen / Pix2Pix Floorplan Generator — cross-cultural AI generating museum floorplans.
+- Engineered a data pipeline converting PDF architectural plans to training data: pdf->PNG at 300 DPI,
+  Tesseract OCR for room labels, OpenCV wall detection & room segmentation, 8x augmentation.
+- Built a custom Pix2Pix conditional GAN: 7-level UNet generator (5-channel RGB+mask+centroid input) +
+  spectral-norm PatchGAN discriminator; Hinge + L1 loss (lambda=100); trained 299 epochs.
+- Root-caused coordinate-scaling errors and validated room boundaries with watershed debug overlays;
+  selected the production-ready checkpoint. Stack: PyTorch, OpenCV, Tesseract, NumPy.
 
 EXPERIENCE — Data Intern, Youth Service Bureau of Monroe County & BTCC (Aug–Dec 2025)
-- Python ETL integrating ACS + CDC WONDER; -30% processing time.
-- Youth well-being analysis (Pandas, Tableau); 5+ policy recommendations at 2025 MC3 Summit.
-- Built public interactive data-viz website; +40% data accessibility.
+MC3 (Monroe County Childhood Conditions Summit 2025 Data Hub). Live: mc3-monroecounty2025.netlify.app
+- Built a Python/Pandas ETL pipeline integrating ACS, Kids Count, STATSIN, Clinical Care, and CDC
+  WONDER/NCHS mortality data into validated county indicators; automated inventory across 1,100+ files;
+  reduced manual processing time by over 30%.
+- Verified 5 well-being indicators (poverty, graduation, unemployment, child population, SNAP) with a
+  metric-validation layer flagging inconsistent claims; optional PostgreSQL schema + reporting views.
+- Designed and deployed a public Chart.js dashboard (housing burden, SNAP food access, mental-health
+  signals) supporting 6 policy recommendations; improved data accessibility by over 40%.
 
-PROJECT — E-commerce Sales & Customer 360 (2025)
+PROJECT — UrbanFlow AI: NYC Ride-Hail Demand Forecasting & Dynamic Pricing (github.com/Bhaavan-Myneni/Urbanflow-ai)
+- Processed 239M+ FHVHV + 36M yellow-taxi trips into a PostgreSQL warehouse (2.2M hourly aggregates),
+  joining weather, events, holidays, and 265 taxi zones.
+- Trained an XGBoost next-hour demand model (Test R^2 = 0.95, MAE ~15 trips/zone-hour) with SHAP explainability.
+- Built a dynamic pricing engine + revenue simulation showing $144.1M (13.64%) revenue lift vs static pricing.
+- Served predictions via FastAPI (/predict-demand, /recommend-price) and a Streamlit dashboard.
+
+PROJECT — Customer 360: Churn & Repeat-Buyer Platform (github.com/Bhaavan-Myneni/customer360-churn-repeat-analytics)
+- Ingested 1.55M rows (Olist e-commerce) into PostgreSQL via COPY; built Customer 360 SQL views at person grain.
+- Engineered leakage-safe features; trained XGBoost models (churn ROC-AUC 0.869; repeat-buyer 0.840, ~20x PR-AUC lift).
+- Diagnosed and fixed a data-leakage bug; explained models with SHAP; served via FastAPI + Streamlit, fully Dockerized (live on Render).
+
+PROJECT — Urban Traffic Safety Engine: Computer-Vision Traffic Risk Platform (github.com/Bhaavan-Myneni/urban-traffic-safety-engine)
+- Ran YOLOv8 on 29 traffic videos / 26 cameras (26,699 detections); flagged 81 near-miss events; modeled $20,770 delay cost.
+- Simulated a protected bike-lane A/B intervention (near-misses 81->62); RandomForest congestion forecast (RMSE 5.51).
+- Orchestrated with Airflow DAG + PostgreSQL; Folium hotspot map; 8-tab Streamlit dashboard deployed on Render.
+
+PROJECT — E-commerce Sales & Customer 360 (ELT/warehouse) (2025)
 - End-to-end ELT, 500MB+ into BigQuery; PySpark on 300k+ records; Star Schema (10x faster queries); Airflow + Docker (2h -> 15min).
 
-PROJECT — Trash Classification with YOLO (2024)
-- 96.24% accuracy comparing YOLOv5/v7; 67.5% mAP@0.5 on 1,370 instances; custom 4,027-image dataset; real-time detection + SVM.
+PUBLICATION / CAPSTONE — Trash Classification & Recycling Assistant using YOLO Variants (2024)
+- B.Tech capstone (PVPSIT); 96.24% accuracy comparing YOLOv5/v7; 67.5% mAP@0.5 on a custom 4,027-image dataset; real-time detection + SVM.
+- Authored and published a paper with IIETA.
 
-CORE SKILLS
-Python, Pandas, PySpark, scikit-learn, SQL, Java, C++; Airflow, dbt, Kafka, ETL/ELT, Spark, Hadoop;
-PostgreSQL, MySQL, MongoDB, Snowflake, BigQuery, Redshift; AWS (S3, Glue, Redshift, EMR), GCP (BigQuery, Dataflow), Azure Data Factory;
-TensorFlow, PyTorch, YOLO, CNNs, model deployment, Flask, FastAPI; Tableau, Power BI, Matplotlib, Seaborn.
+CERTIFICATIONS: NPTEL — Programming & Data Structures using Python; Programming in Java.
