@@ -44,7 +44,7 @@ const NO_SPONSOR = /(no (visa )?sponsorship|not (able|be able) to sponsor|withou
 const YES_SPONSOR = /(visa sponsorship (available|provided|offered)|will sponsor|sponsor(ship)? (available|for the right)|h-?1b|opt|cpt|f-?1|stem opt|cap[- ]exempt)/i;
 
 async function jsearch(query, page = 1) {
-  const url = `https://jsearch.p.rapidapi.com/search?query=${encodeURIComponent(query)}&page=${page}&num_pages=1&country=us&date_posted=week`;
+  const url = `https://jsearch.p.rapidapi.com/search-v2?query=${encodeURIComponent(query + " jobs in USA")}&page=${page}&num_pages=1&country=us&date_posted=week`;
   const res = await fetch(url, {
     headers: {
       "X-RapidAPI-Key": RAPIDAPI_KEY,
