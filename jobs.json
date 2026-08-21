@@ -1,5 +1,97 @@
 {
-  "updated_at": "2026-08-20T13:44:52.918Z",
-  "count": 0,
-  "jobs": []
+  "updated_at": "2026-08-21T13:43:37.285Z",
+  "count": 7,
+  "jobs": [
+    {
+      "id": "UVlpSzFpek1DRUxUT1JJVEFBQUFBQT09OkVzc0JDb3dCUVVwcFZEUjBTa3h2UVdzMU5tMUlZV05IZUU0NFJsVkJaMmRXTUhkMllYRkRhRUZ6ZDNRMVZFTk9VbkUxVUVnd2VucFJXbTF0UkVwSVVtVkVhMWc0YVVwMWRrMUxNRzlVTlhaQ1JtaEJXbGxzWjJKeFVFYzRVRUpRV1VsMGNWRlRWblZQVUZoSlZpMXdObEl5T0hNdFRHOHdOQzFyZDA1Wk5XRjZUM0JVYTB0M1RUSjBOVlUyTWtWek9Vd1NGa0ZzWVVsaGRtWlpTRGxmUlhKMVJWQjBabGRLVlVFYUlrRkVjM0k1WmxKc1pXWk1WMnMxTWsxM2NIZ3hiR2RXUzJGUFoyUjJWa0ZvUWxF",
+      "title": "Senior Data Scientist",
+      "company": "Leidos",
+      "location": "Alexandria, Virginia",
+      "posted_at": "2026-08-18T00:00:00.000Z",
+      "url": "https://careers.leidos.com/jobs/17876253-senior-data-scientist",
+      "source": "Leidos Careers",
+      "role_category": "Data Scientist",
+      "remote": false,
+      "match_score": 10,
+      "sponsorship": "no"
+    },
+    {
+      "id": "VlRNdjNCVkhTOGJNcjhZWkFBQUFBQT09OkVzc0JDb3dCUVVwcFZEUjBTMFUxYWtWTGNEUnRXbFUzUjJoUU4yWm1iRzE0VW1sbFJWZzJZV3hyWTFjd2EwYzRWR2hsTUdjNGJWVTNVRGR4UmpndFdFZDBZbVJ6VGtaVk9FRjVRbEJKVm5wS1RqVmZUR3RNVFVKR2IzZEVaemgxYzNOeFQwczRiMFJxY3pVeFpXRk5TekJqVjNkVVJFMVFiVEJvVmw5M1NuTlRjMEp4UVVZd05XWm9Zemg2UjJjelkyMFNGa0ZzWVVsaGRtWlpTRGxmUlhKMVJWQjBabGRLVlVFYUlrRkVjM0k1WmxGQlJuVk1PRk5wUzJoT2VWbFRSbEpxTlVoZk1YcFFNVGMzUjFF",
+      "title": "Data Scientist",
+      "company": "Bold Penguin",
+      "location": "Dublin, Ohio",
+      "posted_at": "2026-08-17T00:00:00.000Z",
+      "url": "https://www.linkedin.com/jobs/view/data-scientist-at-bold-penguin-4455308920",
+      "source": "LinkedIn",
+      "role_category": "Data Scientist",
+      "remote": false,
+      "match_score": 7,
+      "sponsorship": "friendly"
+    },
+    {
+      "id": "b2dxVzBUZFpGdVFtQzJsekFBQUFBQT09OkVzc0JDb3dCUVVwcFZEUjBTMDB6VG1OcWNteFVZM2hxZUhoMmQzazVkMk10Um1FMFkxWlZkalZCVlRBM2FuaHdWVzkwWDJSeGVYSnlWV0prVEdrMVYyTkhMVVV4UVZsdk5IQmtkelJHWTJwMVIwdFRlbEJWYzAxTFZsbGlPRVZ2VGt0TVlXUXpSWGt5Y2pGdFQweDFUVUZoWDBWclkyNVNWelpHT1dKRmIxRTRaRkV5ZGsxT09FaFFjako1TlVGTVpTMFNGa0ZzWVVsaGRtWlpTRGxmUlhKMVJWQjBabGRLVlVFYUlrRkVjM0k1WmxSbmJFOXVhbmw0VmxaTVdWQkxNVzFVTkRkSVZYZ3pTSEJzWWxF",
+      "title": "Data Scientist",
+      "company": "TEKsystems",
+      "location": "Westbrook, Maine",
+      "posted_at": "2026-08-19T00:00:00.000Z",
+      "url": "https://careers.teksystems.com/us/en/job/JP-006233684/Data-Scientist",
+      "source": "TEKsystems Careers",
+      "role_category": "Data Scientist",
+      "remote": false,
+      "match_score": 6,
+      "sponsorship": "friendly"
+    },
+    {
+      "id": "eThoZGxSQVZ5aWpTOHM5UkFBQUFBQT09OkVzc0JDb3dCUVVwcFZEUjBTbGRWUVVSQllubHRVa1ZtUWpSd05VTXdjbFZ3WTJ4R1YyWm9abGx4TW5kMU4zVlVkSGhSUm1aTmQwVm5Telp1VVdnMlFtWTVWbnBKZFc5MVdWZFRhWEJ1ZDB0VmJ6VlphMngwZGpSTlduTnJWSGx5VlRaMlRGODNWMlpPU1dwSGRURmxRVnBPVWt0WGRGbFNjbkJCTWpCSlpVTkhaa3hXTVRaS05HbDVUVXhtUm01R1RtOFNGa0ZzWVVsaGRtWlpTRGxmUlhKMVJWQjBabGRLVlVFYUlrRkVjM0k1WmxGUFVFMTFOR2RoTTB4c2FEWklZV0ZrUlVKT1NFZGtiakY2TVhj",
+      "title": "AI Data Scientist",
+      "company": "Booz Allen Hamilton",
+      "location": "Fort Meade, Maryland",
+      "posted_at": "2026-08-20T00:00:00.000Z",
+      "url": "https://www.linkedin.com/jobs/view/ai-data-scientist-at-booz-allen-hamilton-4446472608",
+      "source": "LinkedIn",
+      "role_category": "Data Scientist",
+      "remote": false,
+      "match_score": 5,
+      "sponsorship": "unknown"
+    },
+    {
+      "id": "S0VmOVNlYWRLUDYxcEV0N0FBQUFBQT09OkVzc0JDb3dCUVVwcFZEUjBTa3RwVEdReGVFdHdibUUyVEZaeVRHSlBkMnRGUzNwc1RsUkZibGhYU21KQ1R6aDNjazF3ZDFjNVdrUlZjemRzUjJsalltVlJWM3BMTm14cWVFSjJVQzFYVldkaWJUUmpMV2d3U0VWTlpsUkJjVFZ4VGxJM1l6WjJhMVpOYVdOSGJVRklUbGRQZFhJemRrTTBWRVZ1TmpKV2NrODFaMnhUVTNoRVZEWXplV2hEVXpWRVdsb1NGa0ZzWVVsaGRtWlpTRGxmUlhKMVJWQjBabGRLVlVFYUlrRkVjM0k1WmxGU2VWZzFiRFZ3WVZoRFdYcHljRGM1V1VOME1HbFNlalJIYWxF",
+      "title": "Data Scientist, Level 2 with Security Clearance",
+      "company": "WOOD Federal Solutions",
+      "location": "Fort Meade, Maryland",
+      "posted_at": "2026-08-19T00:00:00.000Z",
+      "url": "https://www.linkedin.com/jobs/view/data-scientist-level-2-with-security-clearance-at-wood-federal-solutions-4456728531",
+      "source": "LinkedIn",
+      "role_category": "Data Scientist",
+      "remote": false,
+      "match_score": 5,
+      "sponsorship": "no"
+    },
+    {
+      "id": "NzhLSEl5dHF0WWF1NjlMRUFBQUFBQT09OkVzc0JDb3dCUVVwcFZEUjBTM3BFVEZNd1JYaE9jMDE0UW5OSVRqZEtSM2s1YVdONGNteEtZMVpIWWxKUVNUQmhhekpQVUdSc2FFUmhORFJxTW5Wb2NHWkRWRGxvYmpWS2VsWXRSak42TXpSSE5uSnlSMlJDZUMxRlFVdHNYMFY2UjBvdFZHaExRblkzVlRkZmFGTjVkMUJ1VFRKMlZqbEpNMTl2VGpGd2JqUm5RbUZFUms5VldGbEhNM1ZuVG5wRWFGb1NGa0ZzWVVsaGRtWlpTRGxmUlhKMVJWQjBabGRLVlVFYUlrRkVjM0k1WmxSclZqQjRPWGszTFdRNFlURTBiRjlDVkhOT2JqWnhkWEJMUmtF",
+      "title": "Data Scientist II (US) FCRM Modeling | New York, NY, USA",
+      "company": "TD Bank Group",
+      "location": "New York, New York",
+      "posted_at": "2026-08-19T00:00:00.000Z",
+      "url": "https://www.efinancialcareers.com/jobs-United_States-New_York-Data_Scientist_II_US_FCRM_Modeling.id24684869",
+      "source": "EFinancialCareers",
+      "role_category": "Data Scientist",
+      "remote": false,
+      "match_score": 5,
+      "sponsorship": "friendly"
+    },
+    {
+      "id": "QU1rSnBZTG53SW4wMGxSSEFBQUFBQT09OkVzc0JDb3dCUVVwcFZEUjBTbnBQUjFsTFZuWktiRkZQZGt4S1gxUTJRVFZRYTBkUlVuSTFjWGRHYUUxVVpYbFlPWFp4ZG5FeE0yMW5jSFp2VW5WV09UbEVObFJDVDBGR2JsTk9aRUpLVURSdmVrNXVWRkJrZEVZdFJWUkhNRUp4V1ZkVE1saHRibDlvVTNwSlQyTjVZM2h0YVV4a2RUbEhVM016TVRjd1FtSkdMVGRSTkZNNGVHOUJPWFpFY0hwak1UVVNGa0ZzWVVsaGRtWlpTRGxmUlhKMVJWQjBabGRLVlVFYUlrRkVjM0k1WmxSTlEzUk5NbmRoTlRKS2MxbHlZV3QwVVhoSU1USm9PRTFLTm1j",
+      "title": "Posted 1 day ago Renton, USA Hasbro Data Scientist, Marketing Effectiveness & Testing",
+      "company": "Experimentation Jobs",
+      "location": "Renton, Washington",
+      "posted_at": "2026-08-17T00:00:00.000Z",
+      "url": "https://www.jobleads.com/us/job/posted-1-day-ago-renton-usa-hasbro-data-scientist-marketing-effectiveness-testing--renton--northern--ef03d46aad9be63ca301b8d8de3e6a49d",
+      "source": "JobLeads",
+      "role_category": "Data Scientist",
+      "remote": false,
+      "match_score": 2,
+      "sponsorship": "unknown"
+    }
+  ]
 }
