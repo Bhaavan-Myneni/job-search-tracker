@@ -1,9 +1,35 @@
 {
-  "updated_at": "2026-09-04T16:44:51.314Z",
-  "count": 28,
+  "updated_at": "2026-09-05T15:48:31.474Z",
+  "count": 34,
   "jobs": [
     {
-      "id": "eVpzbUNuVFRCc3ZNVTVMVUFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBUSGt3ZDFGRVZHZHNkR3cyY2xGVWJYSjBibEV6YkVFMGFIaDBhMTh4ZGxoU1JEQXlaVXBZUlZSelUyNXRXbXBrVVc4eWRGcGpaREExYTBFelpGUkVSMWwzTkdaeFJUTnZPRVZXTTNkblRsZDBSMUF5Y0MxZlJHWm5VSHA1YW5SbmRXUlpSRkJ5U1dKVFgyMVlWVWRTVFV4WkxYQXlRMnBRYzNKbVdIWkVRVWhxZWtnelZEVVNGMk4yVjJGaGRsTkhUSEp1UlhBNE5GQTJUM0pWZDFFNEdpSkJSSE55T1daUlEwcG5NWGg0VWt3eGRXdHlZbTE1V0VOdmNWUnlTV3Q2UTFGQg",
+      "id": "OWJuUE0tWndJVjlNZk1yakFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBURkZ0ZWpJMExWOUpTRnBzWjB4UFEyMVVTekJaTW1KTU4yTkJORFUzYUhWdlZEVXdVWFJQYlhoUFNuSnhMWEprV1ZsUE5qRkVOMWhpYUdRNVlXSlBUelpvWkRkdVp6UmxORXBXVW1OUVRGbFFNbGd6VW13elVIQXRlVzlmZDJsRGRsaFdTVkprYUdSTE5tSlRUSFY0U2psUWVXdERSVmhGYm5VMFpWZFpNbGxIWlc5UmJVMFNGM0pVYldOaGRFdFpURFZYY25KMVJWQm9UamRDTWtGckdpSkJSSE55T1daVVVHUnVRVFJVY0RsbmIweGlUMlJ5YmpNM1psbERXbGgyVUZSUg",
+      "title": "Machine Learning Engineer III - Document Intelligence",
+      "company": "Workday",
+      "location": "Santa Clara, California",
+      "posted_at": "2026-09-02T00:00:00.000Z",
+      "url": "https://www.linkedin.com/jobs/view/machine-learning-engineer-iii-document-intelligence-at-workday-4453007944",
+      "source": "LinkedIn",
+      "role_category": "ML Engineer",
+      "remote": false,
+      "match_score": 10,
+      "sponsorship": "friendly"
+    },
+    {
+      "id": "OWJuUE0tWndJVjlNZk1yakFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTbTlQTldKU1MwUm5aM0ZJVWtKeFNqQnJOVGM0VFdWUVVrWkVkRVEyTm5SV2FuZElNM3BtUWxoc1NTMHhSRzlmTVVoU2RsOHROM2R3ZEdRdE5HbFFlbVJKUVRoVVVYUjRlbTh6TjBkaVVFNU5SRmhvTW1sU1R6SnBYMjR6Y2pneFRHbG1TSE5QWDBSV2IzSkNVMkkyYVcxbkxXUmFja05CUTFoakxVWTNXbUpVWVRGTlNEZ1NGM042YldOaGNHVTJSbVUyVEhKMVJWQTNMV0pTZFVFMEdpSkJSSE55T1daU2NGVnZNbXByVDBkeVh6SnhZazVyUlZSdFRrMTBkMFo1Y1RsMw",
+      "title": "Machine Learning Engineer III - Document Intelligence",
+      "company": "Workday",
+      "location": "Santa Clara, California",
+      "posted_at": "2026-09-02T00:00:00.000Z",
+      "url": "https://www.linkedin.com/jobs/view/machine-learning-engineer-iii-document-intelligence-at-workday-4453007944",
+      "source": "LinkedIn",
+      "role_category": "ML Engineer",
+      "remote": false,
+      "match_score": 10,
+      "sponsorship": "friendly"
+    },
+    {
+      "id": "eVpzbUNuVFRCc3ZNVTVMVUFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTbXRzZFhGWFlYWmZZMjExWjNGMVZFVm9RMnRDVEdwZmJEZHpMWE5vVG1vME56RnpNVU5EVVZnM2NIcFpUVmRGVWxWcWQyd3ljRUpQWnpCNlMxRjJkaTAyZW1kNWFsaHdiVVJVV0UxTVZXdDJlV3RDT1hrMlVXTlRVMGxrU0V4d1FWQmtabG95TjJ4RE4zTklVWGsxVDA4MGRYbGZkVTltVFZaM09HVnFZbGxaTm1sdk1uRVNGM1ZFYldOaGMyVXhSRjk2YW5KMVJWQTNjVFpHTkZGekdpSkJSSE55T1daVGQyMXNWbmM1YkRkWGVXUkdja2wxUTJ0ZlVFSjJXbXB5VEhGQg",
       "title": "Senior Analyst, People Analytics",
       "company": "Abbott Laboratories",
       "location": "Illinois",
@@ -16,7 +42,7 @@
       "sponsorship": "friendly"
     },
     {
-      "id": "eVpzbUNuVFRCc3ZNVTVMVUFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTbU0zY1VFeWFsQnhiRWRpU0dVd1JrNWFkR3RITUZCS2IxZ3lRVWR5T0hCTU1FOXZVMTl0VG10NWVtSXpNM2c1VVhJeFlXMUdWSE5YY0d3dFZYUlFaalJMYWs5a1RGTlZjblExTTFZdFMwZDViMFJIVkUxdVJWVndkV0pGY25SWVEwMTBiSHA0YkhSWExXSTBlWEJvYmtkRFRrNXpVWGxaV0hsWk9GRTNNa2h0VmxsaFduQVNGMlIyVjJGaGRubGtTWE5RWDNBNE5GQXpPV0ZNY1ZFd0dpSkJSSE55T1daVUxXNUJRMUpTVTNkVGRWVlNVbkV5VDFJNFlrdzNUa0pvUlhCQg",
+      "id": "eVpzbUNuVFRCc3ZNVTVMVUFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTVzlCYlZndGRYUmpla1JwZUUxUVVsVk1VMWhxTm1aSlpVMXFSVlF0YlRoMFJ6Vk9UVUpXV2trM1RFODNTV2xRTmpCUlpERXRWRWRyYzNsU2JuTnNiRFpVVW14cFVqbDBVVVJTU1dReVpEUjRkV295ZHpOTU5UQXlVRjh3TkVVMmVtNVdVMlEwUldsWFlYZENOMTlqYkUwM2NUSnFTMk41ZEd0elJEUkNMVVkwVTNORVVGUVNGM1pxYldOaGNFUnFSbkpJVjNKMVJWQnJkRVJZTmxGWkdpSkJSSE55T1daU1JGaDBaVU4yZW5oNFZFMXpiekk0Y1hGUU1FRktabHA1WTJsQg",
       "title": "Senior Analyst, People Analytics",
       "company": "Abbott Laboratories",
       "location": "Illinois",
@@ -29,33 +55,7 @@
       "sponsorship": "friendly"
     },
     {
-      "id": "NHphYXpINnVBaUV3cnUwWUFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTVXhuU0Y5Sk5UZEZaazVNUTBWSVpTMXdXbVZNUmpkc2IxbENMVXBVZVU4eWFuWktRVlJxUjJnMmRrOW1hR281YXpWcloyeGZVMTlZUkVKS2FsTnRabUpKZERnNVdqbFhRM052ZG1kRFZVSlZjbE0wZWtGRlVFWnVRMHR2TUdaRVdrVkRjRXBpZGxBM2FXdFhXa3hqTWxGc1JreG9MVWxoVVdadlN6bEZNemhmZEdoRVNHRVNGMkptVjJGaGNHRnJRMHB1VUhBNE5GQnNkalpEZVZFd0dpSkJSSE55T1daVU9VNVBWVFpHWTJ0UlpWUkJRbEZZTFZacWJEaExlVTVRV1ZKMw",
-      "title": "AI (ML) Engineer - Colorado Springs, Colorado",
-      "company": "Davidson Technologies",
-      "location": "Colorado Springs, Colorado",
-      "posted_at": "2026-08-28T00:00:00.000Z",
-      "url": "https://www.linkedin.com/jobs/view/ai-ml-engineer-colorado-springs-colorado-at-davidson-technologies-4460513035",
-      "source": "LinkedIn",
-      "role_category": "ML Engineer",
-      "remote": false,
-      "match_score": 10,
-      "sponsorship": "no"
-    },
-    {
-      "id": "NHphYXpINnVBaUV3cnUwWUFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBURGhQZFd4TE56WlRNVkIyY0c4d1pIaFZOMUZJVkhSSVRUQTFaVkF6TmtGRVR5MDRRMkZXVjJWcE1sUXpMVTU0T1VOaGJXNUliRmRVZEVwdk1rRTNVMnBHY0RONlNUVkdabDlHVGpRMFIxUlVabk4zVjBsTmQwcHRRblZsVkVwc05qSTFhMk5QTUdWMmVuVlplbFYzVEdJMFkxTk1hRjlmZG5vMk0zaGFZV1JRTWtoNFMwRVNGMk5RVjJGaGRGaGFRWEUyZW5BNE5GQjVaV0pJZFZGckdpSkJSSE55T1daVE9FSjFZV1kyV1VWM1IzcFRaVGhQVEdkWk9WOUdPRzlQVmpOQg",
-      "title": "AI (ML) Engineer - Colorado Springs, Colorado",
-      "company": "Davidson Technologies",
-      "location": "Colorado Springs, Colorado",
-      "posted_at": "2026-08-28T00:00:00.000Z",
-      "url": "https://www.linkedin.com/jobs/view/ai-ml-engineer-colorado-springs-colorado-at-davidson-technologies-4460513035",
-      "source": "LinkedIn",
-      "role_category": "ML Engineer",
-      "remote": false,
-      "match_score": 10,
-      "sponsorship": "no"
-    },
-    {
-      "id": "SEJoZG56UzBXOTVmYXA5ZkFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTM3BRZEhkMVpqQlBkamREVUdFNFpHaFFaMnAxVmxBNGNuaExhRkJzU2pGMlJIaFNObEJyU2taSFpYcEpaSG8xYUdkck1HdGtRVGR3YUcxTFMyTTBUWEF4YTNGMk1sUlpRVXBWVkhnMWNrUjBZakpXYlhWWVZUVlhRM040WTA0MldrOWFhR3RUZG1KRk0zTlRNaTE1YkZORFdHSTFVRkF0U0dWV05VWTNRWE5vVWxOR2VXMFNGMVoyVjJGaGNHVXRTbEJEYnpCUVJWQXdkbEJrTkVGM0dpSkJSSE55T1daU2NITjBZWGxaWm5aRlVFTmtkRzQyUTBsMlpsaG1UWFZaY0haQg",
+      "id": "SEJoZG56UzBXOTVmYXA5ZkFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTVU5sUkhOZlVHODNPRzk1ZUUxeFlsUk9kVkJpVGpkUGNHdGllRkZLYUhkTVQzWnlWbFpSZFdSWWJXOXplVkJNYWtkMlptbHhlR2RxUzFRelkyeDBjR2x5U2xnemNGQnNWV2hCV0RkVFdsSXhUblF4ZUZneGVUQm5aa1F6ZEZWeFZuTjZhSE5uYzFWaWIwRXRjMEZ2VXpobVRqbDJNR2R2T1VoUFNXRndiWGh5YnpaTllsb1NGMnhxYldOaGRVZHRSMUJVVG10UVNWQXhabmxJZVZGekdpSkJSSE55T1daUmRuSnJZWGd3U0VGQlltcExTRGcwTmpkUVUzWnBTbVJNWWtoQg",
       "title": "Data Analyst- Channel",
       "company": "AvePoint",
       "location": "Jersey City, New Jersey",
@@ -68,7 +68,7 @@
       "sponsorship": "friendly"
     },
     {
-      "id": "SEJoZG56UzBXOTVmYXA5ZkFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTVEY2YlRoWGFXdFJYMmh2Y1RWcVMxb3dTbW80UlZkWk0yNHpNVGxUVG5sTmMxUnJlbGN6YjFGbFIyZGtNekJ3VWkxUVNIUkZkMlpsUW5GMlpVeGlaM0JTZG1kWVdIZzFRbTh0VUVoNlIwNVFVRVJGTUVOaFJVUnJkRXBDUzFsTlFVdzNSbWswTUVkV1pVMVJaelYwWm1aRFh6QnVVSE42V1hoMGJ6SkNaVk5aV0ZvMlkxTVNGMWRmVjJGaGRraE9SVTVsVVcwNVkxQnlXbWw1YjFFMEdpSkJSSE55T1daVGJubzBRamcyVWpkQk4wUmxhV1ZMUVVseVpuSllkMFJyYWs5bg",
+      "id": "SEJoZG56UzBXOTVmYXA5ZkFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTVkU0V2paUlRUZzJPRGhXWTBWSGNubEtibkJTVWxSdVdsbGZRVTQxYlU5TE9ESlNjWFJ0Y2tGc1kxaDFabUZGWVRoQ1VFOUtja1JNYWxNeFVDMU9hVTR4Y3pKeGRVTllZMHBwUjBsbGRteFJObnBTYTFWUmNXSnpRbTVhWmw5S2RIVnpXVzVhWWxwMlpFSTFYMDQxTFZWRVVVaEpiV2hPVHkxUVFVNXViR2RDWTA1eWFWb1NGMjVxYldOaGJ6ZEZSbkpEZFhWeU9GQnFaRjlKTUZFMEdpSkJSSE55T1daVWNVNTBWbmxLYWxCcldIUlNYMU10YlVGUldVbFVkWFJaYVhoMw",
       "title": "Data Analyst- Channel",
       "company": "AvePoint",
       "location": "Jersey City, New Jersey",
@@ -81,7 +81,7 @@
       "sponsorship": "friendly"
     },
     {
-      "id": "SEJoZG56UzBXOTVmYXA5ZkFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTV0p5VUdJNWFXTjRNbDluUkVkWFFVeFFTRXhKVlVaYVJITlBkV3htZGt0WWVXTkhVWEYyUVZCaFpHNXlTRXgwUjFGcVVHTlFPR3hKZEd4MVFYUTRjVlk0VlVWb1RVbEdSR1ZyUm1adlprRk5aMU51WjNWMWEyczVXWFZvVmtGVVRIZEZhakY0VTBwMmEwUm5SbEpYWlVZMU1rRm9kMnRDTFZaR016UmxURGw1ZGpOdmJYQVNGMk4yVjJGaGRsTkhUSEp1UlhBNE5GQTJUM0pWZDFFNEdpSkJSSE55T1daVGFGWlhWbWRzY1VRNGRXRmZUakJ6T0ZwVVNWZFdWMWRQZVhoUg",
+      "id": "SEJoZG56UzBXOTVmYXA5ZkFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBURTAzTldvNWFGOHdRMFJKYzI1SmRFMWpOWGRMWmxGWFUyTmpVMVZPUTNoNVNFSndha05xZGpoWVEwOVRRbEJzYW1FMWEzQjRNM2hxWnpaM1MzUXhlR2xLVVVaWVFtOHRWWEZpTjJGMlEwWnpZbFZQZDJObk1YTlFkRkpvUzJ4SGNraEVWbVJWWlhWSWEyWkRjRFl3UTBWS01sbFJaVVUxVTFwSlVqUmZaR0ZMTmxsMVVEWVNGM1ZFYldOaGMyVXhSRjk2YW5KMVJWQTNjVFpHTkZGekdpSkJSSE55T1daU2VHMVFNRmsyUkVNNFNVVXpkRFpHYTNSWGRWaFJWbDlxWmtsUg",
       "title": "Data Analyst- Channel",
       "company": "AvePoint",
       "location": "Jersey City, New Jersey",
@@ -94,7 +94,7 @@
       "sponsorship": "friendly"
     },
     {
-      "id": "SEJoZG56UzBXOTVmYXA5ZkFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBUSEpQYUZkTFVtRjRUVlZEUTJjMmNrNXlhRUpIYm1oVk1uZHdNRmMyU1ZNMGRVMU1VRlZhYTFGNlZEZ3dWakpIYlZCNFZWQnFSVVZzVEd4WVdXaHpTV1ZoWlRkTVZXMXZiblJ1Vm5semJ6UlNhV2M0VFRJelFqWXpNa0ZpZEMwMVZHTkJaWFpXWTBoZlRuWXhjMnRXTkhaTU1UUjBjSFpxWkdsalVrdzRabWx4YlY5aWRHRVNGMlIyVjJGaGRubGtTWE5RWDNBNE5GQXpPV0ZNY1ZFd0dpSkJSSE55T1daUllUWlRRVGxNVTB4dGRXSTNkMVowZW5WaWVWaFFZMmRZWlV4bg",
+      "id": "SEJoZG56UzBXOTVmYXA5ZkFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTMkZPTFhCNFZ6RTFkSHBmVTFKNlNYRTVNMVZUYjBKVVp6STNTbXRQTlVoTmEzZEdXRTFyWHpFeVUxSjVRbEZLU0VWTlYzbENSRTFTVjNGWWFEWk9OSEZJTFROSlZFODVSRVZoVTJsM1NrWTRVMU5RYkd3ME5VUnhXbE5NTjNCWE1UZFFVM3BDTnpOVlgya3pjSGhTWlhZemNHVlhZMFJXVW1aRVdtcEdURWw2UkZaTWVXMFNGM1pxYldOaGNFUnFSbkpJVjNKMVJWQnJkRVJZTmxGWkdpSkJSSE55T1daVU1WaEZTREpNVlVsTFkySjRWbEJHVVRSRFgycE9VR1ZvVUVWbg",
       "title": "Data Analyst- Channel",
       "company": "AvePoint",
       "location": "Jersey City, New Jersey",
@@ -107,7 +107,7 @@
       "sponsorship": "friendly"
     },
     {
-      "id": "c1RTODViWnRvdWdmOUJhZ0FBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTbEZUWDJZeUxYRktiWE16YnpKdFpYbHRYMFZMZW1KbU9FTmtVMWxRTVhoMU1tVmtkaTFoVERWTlpXaG5NWFJVWVVGeE5HbFZNMHhVUXpaRE5FNDVVVGRwZUZCRVNGOWthV0poU0VoWmFtMXlNRjgwWWtKNmNXdHJOamhIV1ZOV1RuRllNVGx5TkhwZmJsVXhjREE1ZGxkdGEwSlFUMHByTXpsSlEybGZlVTB5TFhaa1pHSVNGMk4yVjJGaGRsTkhUSEp1UlhBNE5GQTJUM0pWZDFFNEdpSkJSSE55T1daVE9EazFNM2RFVFRaRk4yRjJXbmR2YkU1NkxUQkhhM05WUVZoQg",
+      "id": "c1RTODViWnRvdWdmOUJhZ0FBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTMjl2WTJnME1VUldSMVJ3V0MwMFVEbHZaakJIZEZCMlpWTlZla1JUTVdjelR5MHdObWx3ZFhWZlptbG9TSEZpYVdrNVdHMW9TR05QTlcweFJ6WlpUR2x3Tm1SU1dVSnFWV3gzTmxkamNWWjRjSE5wZVY4MWFuZGZOMjlFUjJSZldIcEtabVZ2U2w5eWRUQllhWEJLYWsxaWNFOUxWVEo0VEVoTlpFSkZkVEo1YW1KTlNXSVNGM1ZFYldOaGMyVXhSRjk2YW5KMVJWQTNjVFpHTkZGekdpSkJSSE55T1daVFMwOVNUMGRTVEVneE5VeEthMHhDVjFCVFdtNW5WR2x1ZEZKUg",
       "title": "Data & Analytics Engineer",
       "company": "Netpace",
       "location": "Milpitas, California",
@@ -120,7 +120,7 @@
       "sponsorship": "unknown"
     },
     {
-      "id": "c1RTODViWnRvdWdmOUJhZ0FBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTbmh6U1RKWlFqWktWMkZoTW1kaFFra3lSelpOVUY5V04wdEhVRWN0T0RkaVlWbG1OMVpHZWtwQ1lVOVdhbmhYU1VvMmNVb3pTM2g1WW14Nk1IWkRiM0ZNVlRaM1VIVjVSbEozWkV4cWVuUTVVM3BJYlVScVZUZExiamswWVcwMlNqTnBZVEF3YzNkNVZ6aEhaRGxrTTFwa1pHdFViamhpVXpsNVJYcHZZekJ0ZWtSRk1VTVNGMlIyVjJGaGRubGtTWE5RWDNBNE5GQXpPV0ZNY1ZFd0dpSkJSSE55T1daU2VXNXhjWEpuVm5kVGRIRkZZVVJqTlc5UmQxTjZSbXAwYTA5Qg",
+      "id": "c1RTODViWnRvdWdmOUJhZ0FBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTMHcxWm5aVVlYUmFaRU5CTlRrd2JWWjVaQzFyVHpsdFUwRnBkamhQVGpaM1drcG9VbWxRYnpGR09HcEpZMlp6UlhCdlJHWlBibEU1VkdGaVgxZE9UVEZ6T0hkNFRuSTVYemxhY2tKWWRtNVRPRmxJV21sRVNtWklWVWhPZGtrelEwRnlMV2d5VVhaS1dHSmtjMFJ0TURkdVJuaEVWRFZGY0d3d2NrVmtNV1JJZUhoMVpFTVNGM1pxYldOaGNFUnFSbkpJVjNKMVJWQnJkRVJZTmxGWkdpSkJSSE55T1daVWEzTjNNM2hCVlRnMFZXeDVXR1IwUkRFNWFVbDRXV0ZDWDBSQg",
       "title": "Data & Analytics Engineer",
       "company": "Netpace",
       "location": "Milpitas, California",
@@ -133,7 +133,7 @@
       "sponsorship": "unknown"
     },
     {
-      "id": "SkdFSlo2Z1cyOWtXSEQ2a0FBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTVmMyVEZOaU1HRXhOamxKYTJwaExXSktURlpoUWxSVWFGcGlTbXhWWjJSd1dHdEVlSEExVWxkNk0zWTFRUzB6YTJ0a1ZESnhSRmhoUVV0cWFtNXdZWFF0VURRMVlXNXVlR0p1YlMwdFQxRXhTVTF0WVdjNVRVdFlkVGRVVEVWWk9XRkdZMFZwYWt0T2VGODJOalJUWm5wa2RtRmhSMDlLYTFWbVJFaHdlREEyZGtGaE5YSVNGMXBRVjJGaGRYRkZRV0Z1UVRCUVJWQTVOVTlxWjFGM0dpSkJSSE55T1daVFEwaGxVV0pDYlRsZldGSlhRVTFrVERZMFkxZFpjR3RrY0hwUg",
+      "id": "SkdFSlo2Z1cyOWtXSEQ2a0FBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTUzFGZVdabFUybzNVemRFYm5Ca2MzQkNTVVJ1ZGpKVmFXeFNUMTlxYjNNd1YyWnBiMmhMUnpKRGFtd3hSRzlmVFZNMlRtWlBkSGxaUkU0NVFVSlVWblZLU0hsb1EzazVZMU5PUVZsNmVWUnBjbVJ5UXpOSGVrMVpia296U0haRFdFMVBNV3RWY1hwUE55MXJWbGxRVjFoSGRubGhhMjlaTWtKWVZqZEJNalF3ZWxCT2JFOFNGMjlVYldOaGRETkxUa3R0TFhBNE5GQjJMVXRCTWxGVkdpSkJSSE55T1daVWIzZFJkV3BKYzFwWFNIaEhZUzFvYUVKb056aHhkMmRGTXpGQg",
       "title": "Sr. Data Engineer Flink",
       "company": "Hitachi",
       "location": "Reading, Pennsylvania",
@@ -146,7 +146,7 @@
       "sponsorship": "friendly"
     },
     {
-      "id": "dFA3TTdOV1VhNEdYcnhtR0FBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBURkI0WW14eVJscFNkMlZGYVd4VFowMTFVbXM1ZDJwd01GUmZValJHT1V0d05XMXpiRnBYYlVwWlEwTnZWMUp6YUdoak1URTRjV1IyYTJOamRIb3pSM2haWjAxU1JuUjZUVWxqUmxkQ2MwZHFkMHhoZW1oaVIyTk5OVmcyTVVsbFQxbFBhVnBKWWtWVlExWmxZVjlQYkVsRE5HRTNNMHhCU0ZsUFpXVnZWRGhPZURCR1VEUVNGMXBRVjJGaGRYRkZRV0Z1UVRCUVJWQTVOVTlxWjFGM0dpSkJSSE55T1daVFJFMVJUakZPZERkTmRuUlRURXczUkV0WWJXUjFPVXRXYnpaMw",
+      "id": "dFA3TTdOV1VhNEdYcnhtR0FBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTbXAyYVhsbmJWVnJSVzh6Wm05TFJFZFVNMFJEVDNwSWRHOUJTa2x0TkRScVMyeFpkVzFIZEhGSWNVMVJTbkUyUkVkNFNHNTNPSGhMUXpaT2VHVnRObVF5YVhwR1JrMVBTMTlUVWxWcVNITjJTM1JVUXpCd1IyeFZSVXR0YzFOVFluVjJkRGszTmtSSGNraFFOWGxOT1RkS1dURjNRMWhYVmtkRWVEbDNaREkzY2xFMU1YZ1NGMjlVYldOaGRETkxUa3R0TFhBNE5GQjJMVXRCTWxGVkdpSkJSSE55T1daVFkxQk5hRVF4YlRsTlFVRkZSMGxZV0hwT1NXaExUeTFTVkZKMw",
       "title": "Senior ML Software Engineer - Apple Watch",
       "company": "Apple Inc.",
       "location": "Kentucky",
@@ -159,7 +159,7 @@
       "sponsorship": "friendly"
     },
     {
-      "id": "SkdFSlo2Z1cyOWtXSEQ2a0FBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBURFZJZW1SbVVVMDFja2hOTkU5emRuUm1PVVpwZURCSWN6TmpSV05wYUVSU1ZrdG1XVlF0TmtsNlMxSnFaelI1ZG1JMFJHUnFSbFl4TFdSRFdtbG5XVWROUmt4cFJIQlRPVGh0VkVwNFNXMVJkWFY0U2xwVloyNUdPWGRMTTJOVU1sVjBUVjh3VTJkaVowWjFWVmx5VTFKcFdsUldkVWh6YXpjeVpXVkhMWGRUTjBGUmFVTVNGMkZtVjJGaGRYcEpTbko1ZVRCUVJWQnNMVU5EZFZGUkdpSkJSSE55T1daU00ySnZWRkJ5WVdaNVNqRk1ZVTV6YUZsd1YyUjFaemhhYW0xMw",
+      "id": "SkdFSlo2Z1cyOWtXSEQ2a0FBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTMHBNY2pSbFJYRjBhRVUxYm01VVpsazNaSFk0ZEZWUmNsQnRZMjlLUlZVeVVWRjNNalZvYWxsc1dHUkZhM013UVUxUGNWa3lWV2xzWmsxc2FGVnRiVVZ2ZEhocFMwNUZiVzFGYWxOblpuRmtSRzQ1UnpGUE1WWTJWVk5GU1c1V2VtVkJTM3B2TldjeE5IRnhVV1oxWVMxc01rczNkbnBaZG1SaFRXaERObDlyY2xSelVEUVNGM0I2YldOaGRsQlFSalZ0YlhCMFVWQnpOazlyZVVGWkdpSkJSSE55T1daVFgxRkROR0kyWkhsT1NFa3pVazUxYTJwaWJWcGpVMU0xVEc5Mw",
       "title": "Sr. Data Engineer Flink",
       "company": "Hitachi",
       "location": "Reading, Pennsylvania",
@@ -172,7 +172,7 @@
       "sponsorship": "friendly"
     },
     {
-      "id": "dFA3TTdOV1VhNEdYcnhtR0FBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBURWxFWmpobGFFTjJlRUpQZDIxeVNVWXRTSFF5UVdST1pERlRkVEkxYzNwVlpGZG1UVEZaTFRoTmNVaE9NblJ2UlhvM2EzbHJaazFZZEZGa09XeDRNMVJYVmxGRWJtTlNhWFU1WTFjMmFVOXVOQzFXWlU1Tk5uTnVialpsY0ZZeFowNWhkVlJ5TjJ4b1FsSklSemRDUnpaMFN6TXRibDl3VGxJMVpFdEJZM0JzVDBscU5qZ1NGMkZtVjJGaGRYcEpTbko1ZVRCUVJWQnNMVU5EZFZGUkdpSkJSSE55T1daUmJsSnhaV3QxU1hkc1JuSm9RMU5QY1VONFptdzJaMkpFZGtwMw",
+      "id": "dFA3TTdOV1VhNEdYcnhtR0FBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTMFozZHpsRk1rWlBXVE5TUVV0Q01XRmZUUzF4ZW5SS2VGQkhiRmN0VGxSdE0xSkhOR05pTmtSVlFWQm5TbTlGT1RGTldERnhlbkZ5WkVwT00wRm9TWEZCWWtSNkxYWmZjM05LVmw4Mk9ISnhkMlZXVGtkNllYTklUVU5PTTIxZlRETmxhRzFFZWt4NlJrWlFVRUZhZVVkM2MyNWtOVWh0T1hGZk1qbFVlV2gxVkVkUloyOFNGM0I2YldOaGRsQlFSalZ0YlhCMFVWQnpOazlyZVVGWkdpSkJSSE55T1daUlZrUkxZbGxOYXpobFMzVXpRbXhtV2sxbmIxUlZOMWxOYmtOQg",
       "title": "Senior ML Software Engineer - Apple Watch",
       "company": "Apple Inc.",
       "location": "Kentucky",
@@ -185,20 +185,7 @@
       "sponsorship": "friendly"
     },
     {
-      "id": "dFA3TTdOV1VhNEdYcnhtR0FBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTV3MzYVRKbGRuVm5lVkpOVmtwUWNYYzBSbGcxYmpSUVZGaGxObUpvWmt4S1VYUkhjSHBhZVhCM1YwSXhWM1ZTUlZwTVRsVk9XVTEwZEY4M01WZEZSelZvY0ZBNFJHOHhSRkkwTXpCVWFsZ3hlalpFWjBkRVEzazNUSEpqUTI5QmFtZENVM05rVnpjNWMxY3hZWGN5UzJ4VGMyZHFhbUowTjFCU1pUbDJYemhQWTFkZk1VNFNGMkptVjJGaGNHRnJRMHB1VUhBNE5GQnNkalpEZVZFd0dpSkJSSE55T1daVWR6ZFhOV05WYVZrMVlqVkhNRGRpWXpSRk5VWmpTMDVKWm5OQg",
-      "title": "Senior ML Software Engineer - Apple Watch",
-      "company": "Apple Inc.",
-      "location": "Kentucky",
-      "posted_at": "2026-08-29T00:00:00.000Z",
-      "url": "https://www.learn4good.com/jobs/kentucky/software_development/5406737499/e/",
-      "source": "Learn4Good",
-      "role_category": "ML Engineer",
-      "remote": false,
-      "match_score": 5,
-      "sponsorship": "friendly"
-    },
-    {
-      "id": "dFA3TTdOV1VhNEdYcnhtR0FBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTemhJZEhOWVFUSjFNbEIwZFhobWVEWTRRaTFWZG1nM1prRmpTR2h6VFhwRVp6SlROME55VlhjelVqVlFSVGRJWjNSWWNGSmtXazFGY0Y5RVMweG1lVzFyUkZWMGNrTnpSR3gzVVZWdlNVTXhaVUptZFZORVZWSnlkMjlITVdsalZGUTBkbEYyYjFKMmFHOXJjVVp6T0VwTU4ycEhYMHRTWkc5bWRIQlZZVlJqVFhCTllXOFNGMk5RVjJGaGRGaGFRWEUyZW5BNE5GQjVaV0pJZFZGckdpSkJSSE55T1daUk16SlNWWFY1WkhOeFoyczFjRzk2ZUdGemEwOWxRVlpOUlc1bg",
+      "id": "dFA3TTdOV1VhNEdYcnhtR0FBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBUSEZQVVZSRGFHTkRVRUpDYzBkQlVWbzRRM1ZrVUhwc1JGaDRhazVTT1ZSaFVWUkJaRkJLWWs5aFFVTnZSVkl6VkVsYWNuWXlhbWxQUWprMlpuVnFla0Y2YkZoQ01WaFVWVWxPY2s1eWNtdzNYMGRITFRjNU9XWnpZbEZYZDE5NFNtODVXVFZRWHpKRGRHeEtSelppWld4ZmVFRmhVazVuYjIxVFdsaHFjVE5hVG10RVEwb1NGM0pVYldOaGRFdFpURFZYY25KMVJWQm9UamRDTWtGckdpSkJSSE55T1daVWIxQlBhbmhwYzFoTlFVSmxRbnBHUm5KZlVYVktTRXBCWkRsUg",
       "title": "Senior ML Software Engineer - Apple Watch",
       "company": "Apple Inc.",
       "location": "Kentucky",
@@ -211,7 +198,124 @@
       "sponsorship": "friendly"
     },
     {
-      "id": "NE0wWFRaakg2ellDN25tYUFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTa3B3TjFSMFpYZHFNV2xtZWkxV1oybzBiRXBRZWtOM2R5MWpZVkZtVmpkSWJXSnRUVzVRWWpkUlNWbHBPWFpGTjB4elIyUnhSVU5tUzE5aWRqTklRVnB5UTBORGVrOTRhbWgxUmxjd2JHaEJkR0ZHWVdOSFl6SXhNRU5oTVZCUVIxcFRUbGwyY201S1RESXRWM1oxU1dRekxXUXphbkIzTkRWUmNVcFFZMTg1ZFZKQ1kwTVNGMk4yVjJGaGRsTkhUSEp1UlhBNE5GQTJUM0pWZDFFNEdpSkJSSE55T1daUmNWZHJWMFpSZUhWS01FTXdkMDl2WTNwbGVEYzJXRkpJZDNkQg",
+      "id": "dFA3TTdOV1VhNEdYcnhtR0FBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTazh4VVdwSFQyeGZlbWxzWlRkWlNuZFlPVUpSYjJGbU1HUmZORXhJZFc1M1ZWSlFRMEpLVnpVdFVEUXhTVmMyZUVwd2JWTlViblJIZVV0Q1R6bGplV05QWlV0ME0yVjZhMmhOZDJ0eWNsVmlSazUxYVZoa1dUbENXakp4VlhOaFVrVXlhMFZhZGtwQ2NHUk9NMGh1U0RFeU0zWkxaVlk0Y25WeWRWVlFNRE14YjNadVpVd1NGM042YldOaGNHVTJSbVUyVEhKMVJWQTNMV0pTZFVFMEdpSkJSSE55T1daVFFpMXlXbmxHWTFKNGNsWlNZMDUyTUhweVgwYzJjMmxxZG05bg",
+      "title": "Senior ML Software Engineer - Apple Watch",
+      "company": "Apple Inc.",
+      "location": "Kentucky",
+      "posted_at": "2026-08-29T00:00:00.000Z",
+      "url": "https://www.learn4good.com/jobs/kentucky/software_development/5406737499/e/",
+      "source": "Learn4Good",
+      "role_category": "ML Engineer",
+      "remote": false,
+      "match_score": 5,
+      "sponsorship": "friendly"
+    },
+    {
+      "id": "dUxsdWFNYzBIZG9rbl9tSkFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBUSGxHU1hoVWNHRTFkMjlxVG1oWGMzTndVR1JKVjNGNmVGQkNXbDkwUjNjME9FaFZNek0wTUVzM2FtczBTRjlGWlUxUlZEZGpRbDlNVkZKRVFtbEdabEJqWlRjMVQzRkRWa2xoZDNsdE1EQnhWMU14WVRRNVVEQXhNREl6ZG1SVk1WQXdhazVZTFcxVU5UTnRabXRFWWxsRmFEZ3lZa05RYTJwQldYVjZNMmt3ZGs5VE4zZ1NGM1ZFYldOaGMyVXhSRjk2YW5KMVJWQTNjVFpHTkZGekdpSkJSSE55T1daVE5YZDVSbTVJTFdsUlZ6Vm5NRXBWVUZkVlpWUkxaeTFzY0RWUg",
+      "title": "QA Analyst: Healthcare Data & ETL",
+      "company": "CSpring",
+      "location": "Jacksonville, Florida",
+      "posted_at": "2026-09-01T00:00:00.000Z",
+      "url": "https://www.learn4good.com/jobs/jacksonville/florida/info_technology/5416163586/e/",
+      "source": "Learn4Good",
+      "role_category": "Data Analyst",
+      "remote": false,
+      "match_score": 4,
+      "sponsorship": "unknown"
+    },
+    {
+      "id": "dUxsdWFNYzBIZG9rbl9tSkFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBUSFpFVEZoU1ZXaHplbUZHYkZwVVVrVmZXSEpPZEdWUmVFNVFXUzFvT1dGcVREZHVaVEpEUkhaMWMyNUZWRmRaTjNGa1VYVmZOR0l6ZVdkeU9HTXRVVmxZT0VGb1NEbElaVGhsWVdrdFptSlJiVWxSWm5RM01rbDFUa1pDU2tkT1lVMUhWakphTjBKbFdVMVROSE15V1VGb2FtOWhkSGRaZG5aMVVITXdaWHB1U3pGT1FVY1NGM1pxYldOaGNFUnFSbkpJVjNKMVJWQnJkRVJZTmxGWkdpSkJSSE55T1daVFpYZE9VSGszUmpSMVNGcEtTMGxOVEhGdmVXNDJiak15Y2pWMw",
+      "title": "QA Analyst: Healthcare Data & ETL",
+      "company": "CSpring",
+      "location": "Jacksonville, Florida",
+      "posted_at": "2026-09-01T00:00:00.000Z",
+      "url": "https://www.learn4good.com/jobs/jacksonville/florida/info_technology/5416163586/e/",
+      "source": "Learn4Good",
+      "role_category": "Data Analyst",
+      "remote": false,
+      "match_score": 4,
+      "sponsorship": "unknown"
+    },
+    {
+      "id": "Xy1lNEc0Y1FHdnptR1hjZkFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTVVJOU0VaTWIySkRlVll6ZFRCc1JqQTRSbkYxUjJkUGNXY3diMlpYVG5GeVZWSkVNbU0yYVRSc04xRm1TV2xRUkZWYWEyZENNVkZhVEZCTFV6TjNXbUpXU1doMlJFWmtNRGRZY0d0SWFuaENiVGd5ZFRaWVoxYzVWVTB0WVZCUWVsWllTWGhVV2kxb09UWXRTVEpxYkZabVFYY3hkRU5JV2pGVmVrbGFlak5wWTIxSFRFOFNGM1ZFYldOaGMyVXhSRjk2YW5KMVJWQTNjVFpHTkZGekdpSkJSSE55T1daVVF6Vk5TbVJYTFd0RWIzcHdUMWg2Um5CNlN6VXRSa3RJYVVaUg",
+      "title": "Junior Data Analyst",
+      "company": "SynergisticIT",
+      "location": "Greeley, Colorado",
+      "posted_at": "2026-08-30T00:00:00.000Z",
+      "url": "https://bebee.com/us/jobs/junior-data-analyst-synergisticit-greeley--lensa-7428_79b272e5c6521cc08641af9385860dd0336b1ff0b3f0db39639d477a62a685e3",
+      "source": "BeBee",
+      "role_category": "Data Analyst",
+      "remote": false,
+      "match_score": 4,
+      "sponsorship": "friendly"
+    },
+    {
+      "id": "Xy1lNEc0Y1FHdnptR1hjZkFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTVkJFTTFOTE1UUjBRMmhCYzBsemExRldjbU5YY1d4TlZWWlNPVWhGU0dGcVIzUk9aakZOTkZWamFFWlRRblZIT0hkaFNHSjJTRGRWU2xNelozTmlXazV3U0VsaWJXWkRTVEpYVUhSYWFtNDBaazVDT1VkV2FEUXpielZCUlZsZk1IcDZSMVYzZVUxeE5IRnVVRTVPY1haUlNWZ3dWRUpyWjFvdFl6SkpjelptVWtoM01rUVNGM1pxYldOaGNFUnFSbkpJVjNKMVJWQnJkRVJZTmxGWkdpSkJSSE55T1daUmJIaFFURU52TXpkdlUwMDBja2xYVkdwM1dVaEZRMEp6Y0dGMw",
+      "title": "Junior Data Analyst",
+      "company": "SynergisticIT",
+      "location": "Greeley, Colorado",
+      "posted_at": "2026-08-30T00:00:00.000Z",
+      "url": "https://bebee.com/us/jobs/junior-data-analyst-synergisticit-greeley--lensa-7428_79b272e5c6521cc08641af9385860dd0336b1ff0b3f0db39639d477a62a685e3",
+      "source": "BeBee",
+      "role_category": "Data Analyst",
+      "remote": false,
+      "match_score": 4,
+      "sponsorship": "friendly"
+    },
+    {
+      "id": "SnI3QWVZTnpPNkhvOThjeUFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTMUZLT0dObE9WRXljM1F6ZHpWaFdIRXpiSEpEWlV4bVJXOUtka3ROVW5OWmVGbEdTbTFNWjJwMll6RlVMVXRWVTFnemJWZFRkbkpQU0d4U2NIVjBjRmhRVms0M1FWRjVVM1pETlMxdlFWQTNUbWMxTkhSRmJWbzNhRTFSVGsxbVZFUnhVMVJmWmw5TVEwTkJSamxmTFZWeVNqZHFTbFJQYzNWdGJHOXdUVTUwUWpFMFFrWVNGMjlVYldOaGRETkxUa3R0TFhBNE5GQjJMVXRCTWxGVkdpSkJSSE55T1daVGNHTk5jbWRDYUVGMVUydHJRbFpqVFZKMFRGcDRaV1pDZEZsUg",
+      "title": "AI​/ML Engineer — Build Scalable Models & Data Pipelines",
+      "company": "Kaizen Approach, Inc.",
+      "location": "Glen Burnie, Maryland",
+      "posted_at": "2026-09-01T00:00:00.000Z",
+      "url": "https://www.learn4good.com/jobs/glen-burnie/maryland/software_development/5417474285/e/",
+      "source": "Learn4Good",
+      "role_category": "Data Engineer",
+      "remote": false,
+      "match_score": 3,
+      "sponsorship": "unknown"
+    },
+    {
+      "id": "SnI3QWVZTnpPNkhvOThjeUFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTbFpuWXpWRVdXbDFVV1p3YlZjNVlrdHhVblpYVmxOMFQyVnZabFE0TkhCT1JGZzFlbU5oWjFOSVEyUmlkVnBOU0ZSa2RFTXhTRUZ1Tm1aS1JWTTJWMGhTZEUxd2VXOHphMjU1VjJKSVpIcExRWHBvZG0xR1dXUTJVSEJuTTFNMFZtdElia1IyWWxaTFQwZDZhaTFNVTFRNFFta3RkVlozYkdzM1JVbHNibXBOWW1sc1RUUVNGM0I2YldOaGRsQlFSalZ0YlhCMFVWQnpOazlyZVVGWkdpSkJSSE55T1daU1NVY3laekJOTkZkQ1lXYzRTSGxSYzJ4MWEyWmFhV3N4TFhaMw",
+      "title": "AI​/ML Engineer — Build Scalable Models & Data Pipelines",
+      "company": "Kaizen Approach, Inc.",
+      "location": "Glen Burnie, Maryland",
+      "posted_at": "2026-09-01T00:00:00.000Z",
+      "url": "https://www.learn4good.com/jobs/glen-burnie/maryland/software_development/5417474285/e/",
+      "source": "Learn4Good",
+      "role_category": "Data Engineer",
+      "remote": false,
+      "match_score": 3,
+      "sponsorship": "unknown"
+    },
+    {
+      "id": "SnI3QWVZTnpPNkhvOThjeUFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTWGxKUzFjekxVeEpNV2c0ZFd0bVZEbENjRFV5ZUhoc2F6WjRiR1UxUmpaUGRrVnhjRzFDZVhwQlpUbExiekpRVEVwSmFtaHVOR2w1YldScFYwSlpUMXBtUWw5dVFWRTNiMTgzTUhoa09IVTNObVpYY1daM2JWaEtiVWh4V21ONGNHc3lWRzQyUVVabmNHOUdjbVJOTUY5Q1UyZHdTa0k1U1VoTk1EUlhPVFE1VlMxdmRrVVNGM0pVYldOaGRFdFpURFZYY25KMVJWQm9UamRDTWtGckdpSkJSSE55T1daVE9VTmpVR1ZOYW5aNmQwcHRjVEptVURodFIzQXhRVFZ0VlY5Ug",
+      "title": "AI​/ML Engineer — Build Scalable Models & Data Pipelines",
+      "company": "Kaizen Approach, Inc.",
+      "location": "Glen Burnie, Maryland",
+      "posted_at": "2026-09-01T00:00:00.000Z",
+      "url": "https://www.learn4good.com/jobs/glen-burnie/maryland/software_development/5417474285/e/",
+      "source": "Learn4Good",
+      "role_category": "ML Engineer",
+      "remote": false,
+      "match_score": 3,
+      "sponsorship": "unknown"
+    },
+    {
+      "id": "SnI3QWVZTnpPNkhvOThjeUFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTMWRSWHpCZlMyOUZWRzVaZEZKNVowVnRTVXRET0dsRmNXWjRUak5YTnpCVFoxVkNOMmRHZUZORFZsSlZTM1ZNUm1zek5uRnphMlk1UWtreWIyNWpiQzFPVmpkWk5EQmliMDFzWDJJMmVWVnFOalJVZG5ZNVltVTVSM1JNYVZwdlRYWjVWalJqUW5GaExVbHViemRYVFZKMVozSjVXVkJLWjFjM1VTMUdaVzVrVmtaUGFqWVNGM042YldOaGNHVTJSbVUyVEhKMVJWQTNMV0pTZFVFMEdpSkJSSE55T1daVGQwMTRhbFJPU0daSmIxTXdSMEYwYVdSdk5IcFZZa1JWYURWbg",
+      "title": "AI​/ML Engineer — Build Scalable Models & Data Pipelines",
+      "company": "Kaizen Approach, Inc.",
+      "location": "Glen Burnie, Maryland",
+      "posted_at": "2026-09-01T00:00:00.000Z",
+      "url": "https://www.learn4good.com/jobs/glen-burnie/maryland/software_development/5417474285/e/",
+      "source": "Learn4Good",
+      "role_category": "ML Engineer",
+      "remote": false,
+      "match_score": 3,
+      "sponsorship": "unknown"
+    },
+    {
+      "id": "NE0wWFRaakg2ellDN25tYUFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTVGhtVmt0NVJtUmFRVTFwVERGV01tRjZhM2hsY1ZSYVRURmZabXQ1YXpJMWNFbDZjV3B6WmpaeE5WZFlMVk13Y1hsMmEwOWZlVVkzTkdRMU5USlpablZUVDBWcmJVUTNaMjlyZVZvdGMxTmlZVVZsZG5NNGRWVnFjakJuWm1vNFREUnViRVZZYldSR1UxSldjMmxaTTBrMVFXVlpVbU5NTUU5Qk9IQnViM2gwYzE5elJUVVNGM1ZFYldOaGMyVXhSRjk2YW5KMVJWQTNjVFpHTkZGekdpSkJSSE55T1daU1dVeDZZM2x4UTFkVGRqSndSRXBCUWt4RlFVVkJSbEF4WVRKbg",
       "title": "Senior Data Analyst",
       "company": "Luxoft",
       "location": "Tampa, Florida",
@@ -224,7 +328,7 @@
       "sponsorship": "unknown"
     },
     {
-      "id": "NE0wWFRaakg2ellDN25tYUFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBURUZqT1hFdFZVdHRZakZVTVRoSk5tVlliM0ZGTm1kZlQzaFJVa294VFVGNlUyVkNZMU5WY2w5bVJtSk5VRTFZTFUwMllVSjBkWEZ6ZEdGRVJ6bHJWakpRUTBwbmRITTFNalJ6V1RodU9GbE5kRVl4VkY4M2RFMWZNbVo2ZEVGaFFYTnZXVloxYzIxSVJVOXBPVU51Ym5WMVZHWkRRbVZVWkZGdFNYUXhiMGRqY21JMloyZ1NGMlIyVjJGaGRubGtTWE5RWDNBNE5GQXpPV0ZNY1ZFd0dpSkJSSE55T1daU2VVUnFSWEJEVDB0ZldITTNNMmd3WjFSaFFsbGFWMmw1VjBOMw",
+      "id": "NE0wWFRaakg2ellDN25tYUFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTa1JKTms1aWJHRkNURlpMVFdOTFZVYzBkMXBhZEdoRlZ6QllUV0ptVG1aNVZtZDZRa1IyWTJwaFFsTjVRVjlxWlVaaGIyODRUR1JsU2xGNmExazJaSG95WWxSa1pUSnJia2N3YUZnNGNsWmxSRFY2UmpWcFVtUnBVRTFQZUdKTk5FaFRhblZ1TkdwM1lXSkdaR2c1WHpSWWQzWXllR055T1V0ZmRqSlJjRVp5YkdZdFFsSVNGM1pxYldOaGNFUnFSbkpJVjNKMVJWQnJkRVJZTmxGWkdpSkJSSE55T1daUlUxZFRjVEZKUlc5bmFsbzBWMjVZTkdwalZFZHZjWFptVDFCUg",
       "title": "Senior Data Analyst",
       "company": "Luxoft",
       "location": "Tampa, Florida",
@@ -237,7 +341,7 @@
       "sponsorship": "unknown"
     },
     {
-      "id": "WkJjajVPVFJIZWVUclZjZ0FBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTVFZ1WlZWVE9WSTVZVWh6ZUZkNldrRmZjV0ZzTkdZd1dEQmtUVU5tYlZscFNsTlNiazE2V0dwcVNFcGtNbnB2V0V4SU5UQmhYMnBzWTNVd2FHTmhlSGw1VmpCTWRqaGtWa3BYTVdNeFVGaDZjMkV6ZEhsR2FXZDVZa041WTFONmFGOXpZamhFVGxKSFZXdFhTQzEwYW5SeldVbENNMVJXVDNSeVpHbzBTWEV0UzJjM1YzY1NGMXBRVjJGaGRYRkZRV0Z1UVRCUVJWQTVOVTlxWjFGM0dpSkJSSE55T1daVE1GRkRjbXR1ZVUxb1ptZGZWRVZDZFhNelYwY3lhSFpYYmxKQg",
+      "id": "WkJjajVPVFJIZWVUclZjZ0FBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTV054VTJWRFoyZHZkelJhYmxWd2RqQlJNSFZVYjJocU9VdFFaMFpzVlhGa0xXOXNXVWxuVVd4M2MyTXdPRWRwVTJ4TFRXcDJkSFZmWWt4Nk4xcFZjM2hSWjFwM2NIVTRURVJOTlRkTk5uaExjek56YTI0NWMxVjBORk42ZDJkV1kxUmxUbGRsV213d1FVa3RhbXc1Y0VOS1VVVXRiRGw2VjNsdVpFYzRhMjlhU2xCalVtNFNGMjlVYldOaGRETkxUa3R0TFhBNE5GQjJMVXRCTWxGVkdpSkJSSE55T1daVFVFRmhhWGM0UW5KcGVVTmxVMmR0YW05M1Z5MXZhMkZ0YldSbg",
       "title": "Data Systems Engineer",
       "company": "Shield Consulting Solutions, Inc.",
       "location": "Dundalk, Maryland",
@@ -250,7 +354,7 @@
       "sponsorship": "friendly"
     },
     {
-      "id": "WkJjajVPVFJIZWVUclZjZ0FBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBUR2xsWVV4M1ZIUnVSMEpPTkZsemVWcERkelJvYW1oWU4xTjJZblI0VDJoeWRIVnRRMnB3ZVVWMk5tOTRZVEpGVWtadVkxTjRaV2w2TjFkUlVXNUxRalJWVTJ4MVJGTkhRMDF0YjBRNGIzZFZXalZDV0Zrd1RXbE9hVmRvYXpRdGJWSk1iVWhYVG1waE1taFpjR0p2YURoMmNGcFRNM0J6VVhGSFpGUjRVVk5wVm1SS2VVUVNGMkZtVjJGaGRYcEpTbko1ZVRCUVJWQnNMVU5EZFZGUkdpSkJSSE55T1daVFV6VmhaVlZqVVZObGRtUnJZVVV0WlhOblQzcFlhazFqUmpabg",
+      "id": "WkJjajVPVFJIZWVUclZjZ0FBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTalozY1hCNVlWTTJNRFkxZHpKcVh6VlRTMHA1ZG10MFlXTTRkVkUxVm05TlJGQjJkVkU1VEdaUGJFSjBOVXB2ZFhWelpFNXdYMU5NYW5KMFlVeEZjMEpxTjFwRE1VNVBZVmhTVm5JeVRERnpkazgzYTFkRExVdE1OV0ZUTTNoYVEwRlRNWEpRVmw5eU0ybFVZMVZxZHpoa04xTlhOamxOVkMwd1EwOUdUa2N5UjI5TFgxQVNGM0I2YldOaGRsQlFSalZ0YlhCMFVWQnpOazlyZVVGWkdpSkJSSE55T1daVVZGSXRiRkpOYzJOVFNtMXhSbEpyWjFKeFFWOXdhbmxtUnpkQg",
       "title": "Data Systems Engineer",
       "company": "Shield Consulting Solutions, Inc.",
       "location": "Dundalk, Maryland",
@@ -263,7 +367,7 @@
       "sponsorship": "friendly"
     },
     {
-      "id": "emZGLVNBQnhIT00tTmlVUkFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBURlJ2YTB3eFppMXpWVkZwU2pCUFZITmpPUzA0YTFBeGMwY3dYMjVTY1ZReFZ6YzJWRE5WZFcxdlNtTnNlRWxaWlhKcFlqYzNibVZLZFdGRVgxQk5aa1EzU3pseFNFMW5hbGh4Vm05V1owSnFiMEZQYW01Qk5tTm1VREZRWWtOalZuZzRUamh4TUd0elZXeHFTM3BuVTNKbVNUaENhRkJzWm5wcGIxZE9aMWxXYzE5cVdFNFNGMk4yVjJGaGRsTkhUSEp1UlhBNE5GQTJUM0pWZDFFNEdpSkJSSE55T1daU2NWTnJNVXhyVWxGWk56Qk5TSEE1ZEVGc1IwaHVMVXd5ZFRkUg",
+      "id": "emZGLVNBQnhIT00tTmlVUkFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTME00UkRkU2FXSTNPVVoxTTI0elIzVkxaR0ZSZVVkSGNtRlFMVGhxVEVSblNITXpMVGxMVDJkTlNUQmFVbHBhUjFWblVURTVPVzVtTVV4bVJWRlNWVTlQZUdWNVozbE9VMDlZWVRoRE1WVmhTa3RPWHpGYU9HRnNjR2RYYjJFM1gwRnhaaTFqWlhoWWRXeGlSR3MxTm01RlRYVnRNekZFVVZSa2ExOXplbE5aVUdrMFRWWVNGM1ZFYldOaGMyVXhSRjk2YW5KMVJWQTNjVFpHTkZGekdpSkJSSE55T1daVWFVdDRRVjg0ZEZVeFkyeDNUbkJyUkdwWVFVYzNlVVJtUjB4bg",
       "title": "Data Analyst job",
       "company": "Apply for the Data Analyst job",
       "location": "Wilmington, North Carolina",
@@ -276,7 +380,7 @@
       "sponsorship": "friendly"
     },
     {
-      "id": "emZGLVNBQnhIT00tTmlVUkFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTbU5NWm5CTFZUazFhMUJIWlhwT2FrSk5SMDFaU0RkbGRrdzFTMjFPYmtWQ01tbEpWalJhZDE4MVVWOXFPVUV4YzNCVU9FVkVaVzFoYTBZNWJUbEtVWFYwZVU5TFMydFRRWHBZTkU1NFdtVk1kVFZDYldsS1puTnJObFZ0VlZVd1VGQjZXV1JWUmtSZlVEQnlWemhZU0hGRlpsbHFjall5VUVZNFowWTFNRlpqWmpsek1GZ1NGMlIyVjJGaGRubGtTWE5RWDNBNE5GQXpPV0ZNY1ZFd0dpSkJSSE55T1daVFYyZHpXamhGTVRSaGVtbzJNM1UwUTNKU2QzUm1iVU5uT1hSQg",
+      "id": "emZGLVNBQnhIT00tTmlVUkFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBURlYxVW5Jd2JFeFRUMWxUTWxBdFdWRmpaRVEzVDFCRmMwRk1Wa1ZXYTJkT1kxTmhiazF4YWtoUWFtZzROMDV2U1RSTGJsSmFhM0JSV1VSc01qaDBiRXBEUzA0NWFXSlVRa0ZmTUZRelFUZDRkVVUwUjFscFVXSTJRVnBOTm1WVWNreGZTbXAyY0djelJVUlFiRmRKUVZkbUxXa3dRM1ZPVVhJeFlYWjVOV3d6V0RBeWJWUVNGM1pxYldOaGNFUnFSbkpJVjNKMVJWQnJkRVJZTmxGWkdpSkJSSE55T1daVVJFWlpRWGhqVFRSeGFqWXlXR3hyTkROblRWRlZja0o0U0ZaQg",
       "title": "Data Analyst job",
       "company": "Apply for the Data Analyst job",
       "location": "Wilmington, North Carolina",
@@ -289,38 +393,25 @@
       "sponsorship": "friendly"
     },
     {
-      "id": "dk5PNVVoTXNLWm1JRXRQU0FBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTVjlFUjJoelRGSkZORXRyYW5vNVdUUndjelJxZDJsME5qRkxUazVLVDNkQ2IzVmliRjltWWxOSlJrcFBXRTB0TlVkbE9HSmtTV1ZsYUdwRWJYSjRVbmRXZFdjMVgwaHhZemxwTm5Cc09FZHZTMWxyVUZOdk9EbGtURWR0V2sxMWMxZE5iMlZtYTBSUU5XZERaR042U0dRdFdsVXdjbWQzTm5WeGQyOXVTSFZwVEhZNWJHY1NGMXBRVjJGaGRYRkZRV0Z1UVRCUVJWQTVOVTlxWjFGM0dpSkJSSE55T1daUlJGQlZhRU5hWjFCYVEyUlNUVzlwVGpFMVpsSXpaVmxZYWxwUg",
-      "title": "Project Engineer, Commissioning - Data Center Facilities",
-      "company": "Ramboll",
-      "location": "Glen Allen, Virginia",
-      "posted_at": "2026-08-28T00:00:00.000Z",
-      "url": "https://www.linkedin.com/jobs/view/project-engineer-commissioning-data-center-facilities-at-ramboll-4458502133",
-      "source": "LinkedIn",
-      "role_category": "Data Engineer",
+      "id": "cnJfZ2U5dnRBcnBDV2hYTEFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTbWxvY0VkT1ZtVkplVlJ0YkdsalkwSnFUa1ZIUWxCSk1rWmxiRzh5ZEdvMGRtRXpRMU5FYW5wTk1sZDBOWGxMTUUxUFpucFBOMGhCTlZkblEzUXhiMlpFUkRGSmVVaERWSFEwZG1SMFdVcEZaelZrZDBGVlJXODBlVUkzZFhWd2RFSlNRVVZwUVV4eVRtOTRNelpQVlRNM2VsVmlVV015V2pWcmFtcGplVU5tVldkalJ6QVNGM1ZFYldOaGMyVXhSRjk2YW5KMVJWQTNjVFpHTkZGekdpSkJSSE55T1daUlNFUnBMV2RrYUZWU1JsUktUMk0zWkhoVmFHeEthMUkxZWxsQg",
+      "title": "Business Analyst - SAFe, Process Optimization & Data Viz",
+      "company": "Jobtailor",
+      "location": "McLean, Virginia",
+      "posted_at": "2026-08-29T00:00:00.000Z",
+      "url": "https://www.learn4good.com/jobs/mclean/virginia/business/5405156062/e/",
+      "source": "Learn4Good",
+      "role_category": "Data Analyst",
       "remote": false,
       "match_score": 0,
-      "sponsorship": "unknown"
+      "sponsorship": "friendly"
     },
     {
-      "id": "dk5PNVVoTXNLWm1JRXRQU0FBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBURXhvZEhKVE5EbFpTM3BQU0ZKT0xVMHhlRUZ6ZUVVNGFUQkRUbU5yVEZkTGVGVktPRGhzVUdKNmVXeFRiR3RvVEZSVGJVeHJjMHBCWm5GNmVFVmZaVmd0V2pGcVJFRk9iVVpIWWs1R05XODVkM2QwVFc1ZmFHZFJPV1F5Y0RKblZXNTFhMVpXVEU5TmRIWllTVEpIU2poS1pVaEVkalJuZUdWQ2JVWTFjVzFNYVZCT1gzRVNGMkZtVjJGaGRYcEpTbko1ZVRCUVJWQnNMVU5EZFZGUkdpSkJSSE55T1daUk0xcENPRTVrU0ZWMFEyTnNlaTFCTUU0NVlXWTFORmczTWtOQg",
-      "title": "Project Engineer, Commissioning - Data Center Facilities",
-      "company": "Ramboll",
-      "location": "Glen Allen, Virginia",
-      "posted_at": "2026-08-28T00:00:00.000Z",
-      "url": "https://www.linkedin.com/jobs/view/project-engineer-commissioning-data-center-facilities-at-ramboll-4458502133",
-      "source": "LinkedIn",
-      "role_category": "Data Engineer",
-      "remote": false,
-      "match_score": 0,
-      "sponsorship": "unknown"
-    },
-    {
-      "id": "QnA5ZzQ3dWRtTS1mclVNekFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTWFJxTm5OWk1EWm5PVXR3UVhwWFVuRkxaa3c0UkU1R1JUWk9hVXRCU205WFV6WktTbDlEZFhaUU5sZEZZM1pMZWxWWGIxVkRVSEk1YlRJelQzTlFZV1IzVWxaZldtSTBVRlZhWkVwdk9IaFVUa2RoTUdaMU1rbEVUMmhKZEU1RlRXUlNjR2QyU0ZFMFVFNVhVMGR5TkVST01qRnRNM0paUkZkZlN6Vm1NbTV6YjNFNGFVa1NGMk4yVjJGaGRsTkhUSEp1UlhBNE5GQTJUM0pWZDFFNEdpSkJSSE55T1daU2IwTnBibmxJUTJWeVVsZG9UVlp6U3pKM1VsQnJOak5VYzE5Ug",
-      "title": "FOQA Data Analyst: Flight Safety Insights & Dashboards",
-      "company": "Air Transport International, Inc.",
-      "location": "Wilmington, Ohio",
-      "posted_at": "2026-08-28T00:00:00.000Z",
-      "url": "https://bebee.com/us/jobs/foqa-data-analyst-flight-safety-insights-dashboards-air-transport-international-inc-wilmington--pureheal-28528_23106_db4319667ba1e423596a02fdad462f26",
+      "id": "dVdnd1hQMEM5RHN6LVNiaUFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBURzVvVlZkVFkzSm5SWGQyTnpKNFpYQlRPSFJqVGs5V00xOXdaRWhGVlRKTFdEUkxOMmRMY1ZscGRFVlBTMVYyU3kwM01tNHpTWEJVTjI4NFZEQlVlbUpNTW5jNFdIQkRVR2hGVlhkeFIyTktNRFJFZVhGb1ZUa3hUVzR4Y1ZaMlNEVXdiWGREYVZVMmMxQk9ia0Z5TmpCMFQyNDBTQzFVT1dWbk5ETnZTMUJUY0RKQ09HOFNGM1ZFYldOaGMyVXhSRjk2YW5KMVJWQTNjVFpHTkZGekdpSkJSSE55T1daUmNWcERiWG93YlRORlVUZGtWVEpPUTI5Rk4yNVpkbUpPTTFkUg",
+      "title": "Healthcare Business Analyst",
+      "company": "EY",
+      "location": "San Mateo, California",
+      "posted_at": "2026-08-29T00:00:00.000Z",
+      "url": "https://bebee.com/us/jobs/healthcare-business-analyst-ey-san-mateo--lensa-7428_5e1b16663f618029c4fabc17c54829a2d58b5114e7a637267a48c4380d1b1694",
       "source": "BeBee",
       "role_category": "Data Analyst",
       "remote": false,
@@ -328,39 +419,26 @@
       "sponsorship": "unknown"
     },
     {
-      "id": "OEVEYjRiaHJKTkJJQmhGZEFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTUzA0V1ZsNFFuSmlhMU53UTFwdlVXbDRVRTl3V0dSNVNWWlNVRTUzWm5wTmJHRnJka2RFVjFkUmExaHBWalU1VEROR1ZYRnFOV2RTVUdoeVVHbFNlRUpSVFdKRmJqUklYMWhpVEVvMVZqWjBNVmhEYmkxbFRXSndiV3czVVZobWFIRnRUMU42YVRKMVJFbzJkVFpSU1Vkalh6WklRMmRaYUZFMVdGaG5hM2REWTJoTk5tWVNGMk4yVjJGaGRsTkhUSEp1UlhBNE5GQTJUM0pWZDFFNEdpSkJSSE55T1daVFRubFJjakJpTlhKZlRtRndSbUV6Y2xSNmNEZDNla1ZzTVVkbg",
-      "title": "Analyst Logistics",
-      "company": "Walgreens",
-      "location": "Windsor, California",
-      "posted_at": "2026-08-28T00:00:00.000Z",
-      "url": "https://www.recruit.net/job/analyst-logistics-jobs/469EB605BC583C3C",
-      "source": "Recruit.net",
+      "id": "cnJfZ2U5dnRBcnBDV2hYTEFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTbGRUY1VWcWExbEtaMmRKWjNwbFpIcDNaVWhRUWkwMGFGb3RVMFY2ZERSeE9UTmxkMVJ5TmxwTk0wODJaVkpMY0Vsck1tcFBObWhmVWxSeU5XWkJlVkJWZEhoWGFYTkdTV05GY0VkUU56SnlhRUZLWWs4NGFHWkxOMUJKY0Rnd1dqZFZTbmxWWkRBeVpITnZTV056TlY5NE4ycDFaa05GYjNneVltbHNOVzh0Y2tZMGJub1NGM1pxYldOaGNFUnFSbkpJVjNKMVJWQnJkRVJZTmxGWkdpSkJSSE55T1daUmJrOXNiVUZHTkcxVGNXdGZOSGx0U21nM1ZVaFZWRFpCUlZwMw",
+      "title": "Business Analyst - SAFe, Process Optimization & Data Viz",
+      "company": "Jobtailor",
+      "location": "McLean, Virginia",
+      "posted_at": "2026-08-29T00:00:00.000Z",
+      "url": "https://www.learn4good.com/jobs/mclean/virginia/business/5405156062/e/",
+      "source": "Learn4Good",
       "role_category": "Data Analyst",
       "remote": false,
       "match_score": 0,
-      "sponsorship": "unknown"
+      "sponsorship": "friendly"
     },
     {
-      "id": "QnA5ZzQ3dWRtTS1mclVNekFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTbTB5TlV3M1dqZ3hVRzVmVXkxb1kxZEJiVlZIWVVsd1NESnNSemhoYUhCb1kyTkdTbTh3YUZKRWRIVmFNMFJ3UVhKR05XTm9NV1pXYkUwelV6RnlkVk5LYkhSWldXeEdVRXRNZUVJMmFYQXdUVjg0VURSb00yNVJObVZGZDFaNmJUZGZjRTFWTkZoTmVFazBVR2hMVTJGRk1WY3pkSFJtYjNKaUxURkVPVWxtUmpoT2FHd1NGMlIyVjJGaGRubGtTWE5RWDNBNE5GQXpPV0ZNY1ZFd0dpSkJSSE55T1daUmJrTkRZM1poWmtoaVdVNWpaVlJWTVhCemRVaFBiVmRaYWtKQg",
-      "title": "FOQA Data Analyst: Flight Safety Insights & Dashboards",
-      "company": "Air Transport International, Inc.",
-      "location": "Wilmington, Ohio",
-      "posted_at": "2026-08-28T00:00:00.000Z",
-      "url": "https://bebee.com/us/jobs/foqa-data-analyst-flight-safety-insights-dashboards-air-transport-international-inc-wilmington--pureheal-28528_23106_db4319667ba1e423596a02fdad462f26",
+      "id": "dVdnd1hQMEM5RHN6LVNiaUFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTamRUUldkd1IwOUtZMjQ0WDA1d2JFRkZaMnh0ZEU1c0xXMVlTbEJYWWs5bmNFOVhjV2RLZWkxblYzUXhXSE52UVVGbVdqaEdUa1JxTlZod1VVODBhRzF4VkcxTWRrZHNaWEZDZUZkV1dtWlBZMU55WVhGNWMzQlNMV2h1UldvMmFVNTRhR3h5VkVodlREUlBiREJtZVhOVk5HeG5XREZ2WW5OU01XUlJhbm81YVU4eWJtNFNGM1pxYldOaGNFUnFSbkpJVjNKMVJWQnJkRVJZTmxGWkdpSkJSSE55T1daVVFtVTNYMDE1ZFY5SE9VTXRkRjlXWlhwTmFsbGZkRXRqUmxaMw",
+      "title": "Healthcare Business Analyst",
+      "company": "EY",
+      "location": "San Mateo, California",
+      "posted_at": "2026-08-29T00:00:00.000Z",
+      "url": "https://bebee.com/us/jobs/healthcare-business-analyst-ey-san-mateo--lensa-7428_5e1b16663f618029c4fabc17c54829a2d58b5114e7a637267a48c4380d1b1694",
       "source": "BeBee",
-      "role_category": "Data Analyst",
-      "remote": false,
-      "match_score": 0,
-      "sponsorship": "unknown"
-    },
-    {
-      "id": "OEVEYjRiaHJKTkJJQmhGZEFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTV3BuYjE5TVF6aElTemhXYUVwR1gya3lZMlZ4UVdSeVgwa3pXVlJhTnkxb1VHVjVTMEYzYlhsR1dtNW1TSE55Tmw5SmQxRm5hWFpKTWsxR1gzVTBMVzkwVWpGNmNFMVNVVEUzVW10ck1uaDRUemM1VWxKSGRtVnhlRVowTFV3MWRUbEtXREJFVjFKVVowVnFTWGROUVhScGJHVkVkR1EwWm1KTExVZEtTbEZvUVZseVNsQVNGMlIyVjJGaGRubGtTWE5RWDNBNE5GQXpPV0ZNY1ZFd0dpSkJSSE55T1daVFIyOXFUMGxXVmxOMFVuaEpXa2xYZVZKRVpHdExRVGQzYldWbg",
-      "title": "Analyst Logistics",
-      "company": "Walgreens",
-      "location": "Windsor, California",
-      "posted_at": "2026-08-28T00:00:00.000Z",
-      "url": "https://www.recruit.net/job/analyst-logistics-jobs/469EB605BC583C3C",
-      "source": "Recruit.net",
       "role_category": "Data Analyst",
       "remote": false,
       "match_score": 0,
