@@ -1,7 +1,20 @@
 {
-  "updated_at": "2026-09-12T16:00:13.830Z",
-  "count": 93,
+  "updated_at": "2026-09-13T16:50:50.597Z",
+  "count": 91,
   "jobs": [
+    {
+      "id": "YmluZzotMjcwNzY5Mzk5LlJldHJv",
+      "title": "Machine Learning Engineer (Python Or R)",
+      "company": "ATC",
+      "location": "TX",
+      "posted_at": "2026-09-10T09:08:46.000Z",
+      "url": "https://www.linkedin.com/jobs/view/machine-learning-engineer-python-or-r-at-atc-4464570251?trk=bingjobs",
+      "source": "LinkedIn",
+      "role_category": "ML Engineer",
+      "remote": false,
+      "match_score": 10,
+      "sponsorship": "friendly"
+    },
     {
       "id": "YmluZzotMjI4MjkxMjY2LlJldHJv",
       "title": "Data Scientist",
@@ -29,27 +42,27 @@
       "sponsorship": "friendly"
     },
     {
-      "id": "YmluZzotMTM1NzgwNDM1NC5SZXRybw",
-      "title": "Senior, Data Scientist",
-      "company": "Walmart",
-      "location": "Bentonville, Arkansas",
-      "posted_at": "2026-09-09T15:17:25.000Z",
-      "url": "https://www.linkedin.com/jobs/view/senior-data-scientist-at-walmart-4463082301?trk=bingjobs",
+      "id": "YmluZzoxNDMwNTA4MzIzLlJldHJv",
+      "title": "Data Engineer",
+      "company": "Data Surge",
+      "location": "Arlington, Virginia",
+      "posted_at": "2026-09-09T14:47:00.000Z",
+      "url": "https://www.linkedin.com/jobs/view/data-engineer-at-data-surge-4463075275?trk=bingjobs",
       "source": "LinkedIn",
-      "role_category": "Data Scientist",
+      "role_category": "Data Engineer",
       "remote": false,
       "match_score": 10,
-      "sponsorship": "friendly"
+      "sponsorship": "no"
     },
     {
-      "id": "YmluZzotMjE5OTY3NDQwLlJldHJv",
-      "title": "Machine Learning Engineer (Python Or R)",
-      "company": "ATC",
-      "location": "TX",
-      "posted_at": "2026-09-09T08:49:46.000Z",
-      "url": "https://www.linkedin.com/jobs/view/machine-learning-engineer-python-or-r-at-atc-4463888392?trk=bingjobs",
+      "id": "YmluZzotMjM3MDU1MzcyLlJldHJv",
+      "title": "Data Analyst",
+      "company": "CapTech",
+      "location": "Richmond, Virginia",
+      "posted_at": "2026-09-09T02:48:38.000Z",
+      "url": "https://www.linkedin.com/jobs/view/data-analyst-at-captech-4455771762?trk=bingjobs",
       "source": "LinkedIn",
-      "role_category": "ML Engineer",
+      "role_category": "Data Analyst",
       "remote": false,
       "match_score": 10,
       "sponsorship": "friendly"
@@ -66,6 +79,19 @@
       "remote": false,
       "match_score": 10,
       "sponsorship": "friendly"
+    },
+    {
+      "id": "YmluZzotMTU2ODc0NzM3OS5SZXRybw",
+      "title": "Sr Machine Learning / AI Engineer - Remote",
+      "company": "NAVA Software Solutions",
+      "location": "New Jersey (Remote)",
+      "posted_at": "2026-09-08T17:00:00.000Z",
+      "url": "https://www.ziprecruiter.com/c/NAVA-Software-Solutions/Job/Sr-Machine-Learning-AI-Engineer-Remote/-in-Jersey-City,NJ?jid=435f5e676e88e838&trk=bingjobs",
+      "source": "ZipRecruiter",
+      "role_category": "ML Engineer",
+      "remote": true,
+      "match_score": 10,
+      "sponsorship": "unknown"
     },
     {
       "id": "YmluZzoxMTk2MjgzNzU3LlJldHJv",
@@ -107,32 +133,6 @@
       "sponsorship": "friendly"
     },
     {
-      "id": "YmluZzotMTcxNTg4MDQ1Ny5SZXRybw",
-      "title": "Machine Learning Engineer",
-      "company": "Unissant",
-      "location": "Ashburn, Virginia",
-      "posted_at": "2026-09-06T00:00:00.000Z",
-      "url": "https://jooble.org/jdp/-6582199140425932628?trk=bingjobs",
-      "source": "Jooble",
-      "role_category": "ML Engineer",
-      "remote": false,
-      "match_score": 10,
-      "sponsorship": "friendly"
-    },
-    {
-      "id": "YmluZzotOTE2Mzg3NTk5LlJldHJv",
-      "title": "Senior Machine Learning Engineer",
-      "company": "Attain",
-      "location": "Chicago, Illinois",
-      "posted_at": "2026-09-05T00:00:00.000Z",
-      "url": "https://www.careerbuilder.com/job-details/senior-machine-learning-engineer-chicago-il--5def1303-c3eb-4a0a-8137-e5982dd0081b?trk=bingjobs",
-      "source": "CareerBuilder",
-      "role_category": "ML Engineer",
-      "remote": false,
-      "match_score": 10,
-      "sponsorship": "unknown"
-    },
-    {
       "id": "YmluZzotMjEwNTY2MTA1OS5SZXRybw",
       "title": "Machine Learning Engineer",
       "company": "NVIDIA",
@@ -172,65 +172,52 @@
       "sponsorship": "friendly"
     },
     {
-      "id": "YmluZzotMTU0MzYyNjY2LlJldHJv",
-      "title": "Data Scientist",
-      "company": "DLA Piper",
-      "location": "Chicago metropolitan area, Illinois",
-      "posted_at": "2026-09-09T11:15:21.000Z",
-      "url": "https://www.linkedin.com/jobs/view/data-scientist-at-dla-piper-4455791357?trk=bingjobs",
+      "id": "YmluZzotMTc3Nzg1NTc0My5SZXRybw",
+      "title": "Senior Data Scientist",
+      "company": "Medidata Solutions",
+      "location": "NY",
+      "posted_at": "2026-09-09T08:12:05.000Z",
+      "url": "https://www.linkedin.com/jobs/view/senior-data-scientist-at-medidata-solutions-4442855389?trk=bingjobs",
       "source": "LinkedIn",
       "role_category": "Data Scientist",
-      "remote": false,
-      "match_score": 9,
-      "sponsorship": "friendly"
-    },
-    {
-      "id": "YmluZzotMTM3NTY5MTQ0MC5SZXRybw",
-      "title": "Data Analyst",
-      "company": "AARATECH",
-      "location": "Los Angeles metropolitan area, California",
-      "posted_at": "2026-09-09T06:55:33.000Z",
-      "url": "https://www.linkedin.com/jobs/view/data-analyst-at-aaratech-4463875695?trk=bingjobs",
-      "source": "LinkedIn",
-      "role_category": "Data Analyst",
-      "remote": false,
-      "match_score": 9,
-      "sponsorship": "no"
-    },
-    {
-      "id": "YmluZzo5MDgwMzU3OTYuUmV0cm8",
-      "title": "Senior Data Analytics Engineer, Hardware Quality",
-      "company": "URA",
-      "location": "San Francisco, California",
-      "posted_at": "2026-09-08T00:00:00.000Z",
-      "url": "https://www.careerbuilder.com/job-details/senior-data-analytics-engineer-hardware-quality-san-francisco-ca--cd1acae3-8ea6-496e-9bb9-7b4e111cc309?trk=bingjobs",
-      "source": "CareerBuilder",
-      "role_category": "Data Engineer",
       "remote": false,
       "match_score": 9,
       "sponsorship": "unknown"
     },
     {
-      "id": "YmluZzoxMDA4NjQ0MTYyLlJldHJv",
-      "title": "Machine Learning Engineer",
-      "company": "NT Concepts",
-      "location": "Chantilly, Virginia",
-      "posted_at": "2026-09-05T00:00:00.000Z",
-      "url": "https://www.monster.com/job-openings/machine-learning-engineer-chantilly-va--5c53b6bf-3c85-4ba9-b610-e9c4e793f39d?mstr_dist=true&trk=bingjobs",
-      "source": "Monster",
+      "id": "YmluZzotMTE5NTIzMDA0Ny5SZXRybw",
+      "title": "Senior Applied Scientist , Amazon Ads",
+      "company": "Amazon",
+      "location": "NY",
+      "posted_at": "2026-09-09T07:20:04.000Z",
+      "url": "https://www.linkedin.com/jobs/view/senior-applied-scientist-amazon-ads-at-amazon-4455917266?trk=bingjobs",
+      "source": "LinkedIn",
       "role_category": "ML Engineer",
       "remote": false,
       "match_score": 9,
-      "sponsorship": "no"
+      "sponsorship": "friendly"
     },
     {
-      "id": "YmluZzo4MzYwMDg2NTYuUmV0cm8",
-      "title": "GCP Cloud Analytics Engineer",
-      "company": "Deloitte",
-      "location": "Chicago, Illinois",
-      "posted_at": "2026-09-05T00:00:00.000Z",
-      "url": "https://www.careerbuilder.com/job-details/gcp-cloud-analytics-engineer-chicago-il--7684f33e-0b7b-425e-a334-a44219d75252?trk=bingjobs",
-      "source": "CareerBuilder",
+      "id": "YmluZzoxMTg4MjE4MzA5LlJldHJv",
+      "title": "Senior Data Engineer — Amazon Web Service, Proserve Analytics And Intelligence",
+      "company": "Amazon",
+      "location": "Arlington, Virginia",
+      "posted_at": "2026-09-08T17:51:46.000Z",
+      "url": "https://www.linkedin.com/jobs/view/senior-data-engineer-%E2%80%94-amazon-web-service-proserve-analytics-and-intelligence-at-amazon-web-services-aws-4464931181?trk=bingjobs",
+      "source": "LinkedIn",
+      "role_category": "Data Engineer",
+      "remote": false,
+      "match_score": 9,
+      "sponsorship": "friendly"
+    },
+    {
+      "id": "YmluZzotODQ3NzYxMDAwLlJldHJv",
+      "title": "Senior Analytics Engineer",
+      "company": "Empathy Talent",
+      "location": "CA",
+      "posted_at": "2026-09-08T10:28:27.000Z",
+      "url": "https://www.linkedin.com/jobs/view/senior-analytics-engineer-at-empathy-talent-4455897294?trk=bingjobs",
+      "source": "LinkedIn",
       "role_category": "Data Engineer",
       "remote": false,
       "match_score": 9,
@@ -250,19 +237,6 @@
       "sponsorship": "unknown"
     },
     {
-      "id": "YmluZzotMTI0MzMzNjQ4NC5SZXRybw",
-      "title": "Data And AI Engineer Automotive Engineering Analytics",
-      "company": "Artech LLC",
-      "location": "Warren, Michigan",
-      "posted_at": "2026-09-10T00:00:00.000Z",
-      "url": "https://www.careerbuilder.com/job-details/data-and-ai-engineer-automotive-engineering-analytics-warren-mi--b41252bb-142f-4c39-94f8-8fec45777faa?trk=bingjobs",
-      "source": "CareerBuilder",
-      "role_category": "Data Engineer",
-      "remote": false,
-      "match_score": 8,
-      "sponsorship": "unknown"
-    },
-    {
       "id": "YmluZzoxMzk3MjAyNi5SZXRybw",
       "title": "Machine Learning Engineer",
       "company": "Enhance IT",
@@ -274,6 +248,32 @@
       "remote": false,
       "match_score": 8,
       "sponsorship": "unknown"
+    },
+    {
+      "id": "YmluZzoxNDM4OTMzOTI0LlJldHJv",
+      "title": "Sr. Applied Scientist, Ads AI Core Infrastructure",
+      "company": "Amazon",
+      "location": "NY",
+      "posted_at": "2026-09-09T10:00:30.000Z",
+      "url": "https://www.linkedin.com/jobs/view/sr-applied-scientist-ads-ai-core-infrastructure-at-amazon-4455937150?trk=bingjobs",
+      "source": "LinkedIn",
+      "role_category": "ML Engineer",
+      "remote": false,
+      "match_score": 8,
+      "sponsorship": "friendly"
+    },
+    {
+      "id": "YmluZzoxNjA0MTY4MDcuUmV0cm8",
+      "title": "Data Engineer With Postgresql",
+      "company": "Arkhya Tech. Inc.",
+      "location": "NJ",
+      "posted_at": "2026-09-09T06:15:41.000Z",
+      "url": "https://www.linkedin.com/jobs/view/data-engineer-with-postgresql-at-arkhya-tech-inc-4465052987?trk=bingjobs",
+      "source": "LinkedIn",
+      "role_category": "Data Engineer",
+      "remote": false,
+      "match_score": 8,
+      "sponsorship": "friendly"
     },
     {
       "id": "YmluZzotMTE5OTQ4NTE1MC5SZXRybw",
@@ -354,6 +354,19 @@
       "sponsorship": "friendly"
     },
     {
+      "id": "YmluZzotODQ1NDgwMzQ0LlJldHJv",
+      "title": "Senior Data Analyst - Analytics & Transformation",
+      "company": "Capital One",
+      "location": "McLean, Virginia",
+      "posted_at": "2026-09-10T11:23:19.000Z",
+      "url": "https://www.linkedin.com/jobs/view/senior-data-analyst-analytics-transformation-at-capital-one-4456716794?trk=bingjobs",
+      "source": "LinkedIn",
+      "role_category": "Data Analyst",
+      "remote": false,
+      "match_score": 7,
+      "sponsorship": "unknown"
+    },
+    {
       "id": "YmluZzotMjA4NDAyMDUzLlJldHJv",
       "title": "Sr Data Engineer",
       "company": "balt usa",
@@ -362,6 +375,19 @@
       "url": "https://www.linkedin.com/jobs/view/sr-data-engineer-at-balt-usa-4464578533?trk=bingjobs",
       "source": "LinkedIn",
       "role_category": "Data Engineer",
+      "remote": false,
+      "match_score": 7,
+      "sponsorship": "friendly"
+    },
+    {
+      "id": "YmluZzoyNDM4MDg1MDUuUmV0cm8",
+      "title": "Senior Applied Scientist, Amazon Stores Economics & Science (SEAS)",
+      "company": "Amazon",
+      "location": "NY",
+      "posted_at": "2026-09-09T12:01:19.000Z",
+      "url": "https://www.linkedin.com/jobs/view/senior-applied-scientist-amazon-stores-economics-science-seas-at-amazon-4456339923?trk=bingjobs",
+      "source": "LinkedIn",
+      "role_category": "ML Engineer",
       "remote": false,
       "match_score": 7,
       "sponsorship": "friendly"
@@ -380,17 +406,17 @@
       "sponsorship": "friendly"
     },
     {
-      "id": "YmluZzotMjYyOTQ2NjYzLlJldHJv",
-      "title": "Machine Learning Engineer - Training & Simulation Systems (Engineer Machine Learning 2)",
-      "company": "Mission Technologies, a division of HII",
-      "location": "Virginia Beach, Virginia",
-      "posted_at": "2026-09-09T10:21:42.000Z",
-      "url": "https://www.linkedin.com/jobs/view/machine-learning-engineer-training-simulation-systems-engineer-machine-learning-2-at-mission-technologies-a-division-of-hii-4445417627?trk=bingjobs",
+      "id": "YmluZzoxNzI0NjkwOTg3LlJldHJv",
+      "title": "Machine Learning Engineer, Drive",
+      "company": "Drift AI",
+      "location": "San Francisco, California",
+      "posted_at": "2026-09-09T09:05:09.000Z",
+      "url": "https://www.linkedin.com/jobs/view/machine-learning-engineer-drive-at-drift-ai-4465068989?trk=bingjobs",
       "source": "LinkedIn",
       "role_category": "ML Engineer",
       "remote": false,
       "match_score": 7,
-      "sponsorship": "no"
+      "sponsorship": "friendly"
     },
     {
       "id": "YmluZzo1MDM0NDYyNTQuUmV0cm8",
@@ -445,6 +471,19 @@
       "sponsorship": "friendly"
     },
     {
+      "id": "YmluZzoxOTc5NjQ2NDIzLlJldHJv",
+      "title": "Senior Applied Scientist, SCOT OSS - Sourcing Execution & Performance",
+      "company": "Amazon",
+      "location": "NY",
+      "posted_at": "2026-09-08T17:51:49.000Z",
+      "url": "https://www.linkedin.com/jobs/view/senior-applied-scientist-scot-oss-sourcing-execution-performance-at-amazon-4464923367?trk=bingjobs",
+      "source": "LinkedIn",
+      "role_category": "ML Engineer",
+      "remote": false,
+      "match_score": 7,
+      "sponsorship": "friendly"
+    },
+    {
       "id": "YmluZzotOTc1MTM0NTkzLlJldHJv",
       "title": "Senior Machine Learning Engineer",
       "company": "air",
@@ -484,43 +523,17 @@
       "sponsorship": "unknown"
     },
     {
-      "id": "YmluZzotNzkwODUyNzg5LlJldHJv",
-      "title": "Senior Machine Learning Engineer, Public Sector",
-      "company": "Scale AI",
-      "location": "DC",
-      "posted_at": "2026-09-05T07:42:20.000Z",
-      "url": "https://www.linkedin.com/jobs/view/senior-machine-learning-engineer-public-sector-at-scale-ai-4445255916?trk=bingjobs",
+      "id": "YmluZzotMTM4NzgwNzI3Mi5SZXRybw",
+      "title": "Data Analyst",
+      "company": "ManTech",
+      "location": "Arlington, Virginia",
+      "posted_at": "2026-09-09T21:14:00.000Z",
+      "url": "https://www.linkedin.com/jobs/view/data-analyst-at-mantech-4463410912?trk=bingjobs",
       "source": "LinkedIn",
-      "role_category": "ML Engineer",
-      "remote": false,
-      "match_score": 7,
-      "sponsorship": "no"
-    },
-    {
-      "id": "YmluZzotMTM0NDEyOTE1NC5SZXRybw",
-      "title": "(USA) Data Scientist III",
-      "company": "Walmart",
-      "location": "Bentonville, Arkansas",
-      "posted_at": "2026-09-05T00:00:00.000Z",
-      "url": "https://www.careerbuilder.com/job-details/-usa-data-scientist-iii-bentonville-ar--3837af8c-4797-435a-a37e-66b816aacebc?trk=bingjobs",
-      "source": "CareerBuilder",
-      "role_category": "Data Scientist",
-      "remote": false,
-      "match_score": 7,
-      "sponsorship": "friendly"
-    },
-    {
-      "id": "YmluZzoxNzU3ODI5NTgxLlJldHJv",
-      "title": "Senior Analytics Engineer",
-      "company": "American Industrial Transport - AITX",
-      "location": "Saint Charles, Missouri",
-      "posted_at": "2026-09-10T08:39:15.000Z",
-      "url": "https://www.ziprecruiter.com/c/American-Industrial-Transport/Job/Senior-Analytics-Engineer/-in-Saint-Charles,MO?jid=67f6babdfc9000e1&trk=bingjobs",
-      "source": "ZipRecruiter",
-      "role_category": "Data Engineer",
+      "role_category": "Data Analyst",
       "remote": false,
       "match_score": 6,
-      "sponsorship": "friendly"
+      "sponsorship": "no"
     },
     {
       "id": "YmluZzoxNjI2NzU5NjQzLlJldHJv",
@@ -549,17 +562,17 @@
       "sponsorship": "friendly"
     },
     {
-      "id": "YmluZzoxMDU1MTAxMTY1LlJldHJv",
-      "title": "Data Analyst - Supply Chain & Operations",
-      "company": "Marketech International Corporation USA",
-      "location": "Phoenix, Arizona",
-      "posted_at": "2026-09-08T14:26:12.000Z",
-      "url": "https://www.ziprecruiter.com/c/marketech-international-corporation-usa/Job/Data-Analyst-Supply-Chain-&-Operations/-in-Phoenix,AZ?jid=e25f2cb55377dc4e&trk=bingjobs",
-      "source": "ZipRecruiter",
-      "role_category": "Data Analyst",
+      "id": "YmluZzotNjE1MzAxMzUzLlJldHJv",
+      "title": "Senior Applied Scientist, Sponsored Products And Brands -- Offsite",
+      "company": "Amazon",
+      "location": "NY",
+      "posted_at": "2026-09-09T08:27:57.000Z",
+      "url": "https://www.linkedin.com/jobs/view/senior-applied-scientist-sponsored-products-and-brands-offsite-at-amazon-4455916732?trk=bingjobs",
+      "source": "LinkedIn",
+      "role_category": "ML Engineer",
       "remote": false,
       "match_score": 6,
-      "sponsorship": "unknown"
+      "sponsorship": "friendly"
     },
     {
       "id": "YmluZzotMTY5OTQ3MDU4OC5SZXRybw",
@@ -575,17 +588,17 @@
       "sponsorship": "unknown"
     },
     {
-      "id": "YmluZzotMTU2Mjg1ODQyOC5SZXRybw",
-      "title": "Bioinformatics Test Engineer (NGS Data Pipelines, Automation , Python, CI/CD,  Cloud) : Only USA",
-      "company": "KAnand Corporation",
+      "id": "YmluZzotMTA1MDA2ODUzMS5SZXRybw",
+      "title": "Machine Learning Engineer",
+      "company": "Goliath Partners",
       "location": "CA",
-      "posted_at": "2026-09-10T09:19:41.000Z",
-      "url": "https://www.linkedin.com/jobs/view/bioinformatics-test-engineer-ngs-data-pipelines-automation-python-ci-cd-cloud-only-usa-at-kanand-corporation-4464561295?trk=bingjobs",
+      "posted_at": "2026-09-10T08:05:33.000Z",
+      "url": "https://www.linkedin.com/jobs/view/machine-learning-engineer-at-goliath-partners-4465809217?trk=bingjobs",
       "source": "LinkedIn",
-      "role_category": "Data Engineer",
+      "role_category": "ML Engineer",
       "remote": false,
       "match_score": 5,
-      "sponsorship": "unknown"
+      "sponsorship": "friendly"
     },
     {
       "id": "YmluZzotMTgwMTY2NTU2NS5SZXRybw",
@@ -614,17 +627,30 @@
       "sponsorship": "friendly"
     },
     {
-      "id": "YmluZzotMTM1Nzg0ODU3OS5SZXRybw",
-      "title": "Applied Scientist, Navigation",
+      "id": "YmluZzo1NjIzNjMyNTMuUmV0cm8",
+      "title": "Senior Applied Scientist, Sponsored Products Bidding",
       "company": "Amazon",
-      "location": "San Francisco, California",
-      "posted_at": "2026-09-09T11:41:17.000Z",
-      "url": "https://www.linkedin.com/jobs/view/applied-scientist-navigation-at-amazon-4455924480?trk=bingjobs",
+      "location": "NY",
+      "posted_at": "2026-09-09T11:43:03.000Z",
+      "url": "https://www.linkedin.com/jobs/view/senior-applied-scientist-sponsored-products-bidding-at-amazon-4455924188?trk=bingjobs",
       "source": "LinkedIn",
       "role_category": "ML Engineer",
       "remote": false,
       "match_score": 5,
       "sponsorship": "friendly"
+    },
+    {
+      "id": "YmluZzoxMzczODg2OTA1LlJldHJv",
+      "title": "Machine Learning Engineer, Level 4",
+      "company": "Snap Inc.",
+      "location": "Palo Alto, California",
+      "posted_at": "2026-09-09T10:27:23.000Z",
+      "url": "https://www.linkedin.com/jobs/view/machine-learning-engineer-level-4-at-snap-inc-4437449022?trk=bingjobs",
+      "source": "LinkedIn",
+      "role_category": "ML Engineer",
+      "remote": false,
+      "match_score": 5,
+      "sponsorship": "unknown"
     },
     {
       "id": "YmluZzoxNDU2MzQ0OTQ0LlJldHJv",
@@ -633,6 +659,19 @@
       "location": "NY",
       "posted_at": "2026-09-09T08:46:47.000Z",
       "url": "https://www.linkedin.com/jobs/view/applied-scientist-ii-demand-enablement-product-analytics-and-operations-at-amazon-4455926234?trk=bingjobs",
+      "source": "LinkedIn",
+      "role_category": "ML Engineer",
+      "remote": false,
+      "match_score": 5,
+      "sponsorship": "friendly"
+    },
+    {
+      "id": "YmluZzotMTE2NTc2NjQ0OS5SZXRybw",
+      "title": "Senior Applied Scientist , Prime Video Ads",
+      "company": "Prime Video & Amazon MGM Studios",
+      "location": "NY",
+      "posted_at": "2026-09-09T07:12:14.000Z",
+      "url": "https://www.linkedin.com/jobs/view/senior-applied-scientist-prime-video-ads-at-prime-video-amazon-mgm-studios-4455913465?trk=bingjobs",
       "source": "LinkedIn",
       "role_category": "ML Engineer",
       "remote": false,
@@ -731,32 +770,6 @@
       "sponsorship": "friendly"
     },
     {
-      "id": "YmluZzoxNTA2MTgyOTI2LlJldHJv",
-      "title": "Senior Data Scientist – AI Engineer",
-      "company": "William Blair",
-      "location": "Chicago, Illinois",
-      "posted_at": "2026-09-05T00:00:00.000Z",
-      "url": "https://www.careerbuilder.com/job-details/senior-data-scientist-ai-engineer-chicago-il--fb6f9a52-09e7-4481-a2ba-d1e5b069a4f6?trk=bingjobs",
-      "source": "CareerBuilder",
-      "role_category": "Data Scientist",
-      "remote": false,
-      "match_score": 5,
-      "sponsorship": "unknown"
-    },
-    {
-      "id": "YmluZzoxMjU3MjY2NjIxLlJldHJv",
-      "title": "Data Analyst",
-      "company": "ATC",
-      "location": "WA",
-      "posted_at": "2026-09-10T09:07:40.000Z",
-      "url": "https://www.linkedin.com/jobs/view/data-analyst-at-atc-4464575217?trk=bingjobs",
-      "source": "LinkedIn",
-      "role_category": "Data Analyst",
-      "remote": false,
-      "match_score": 4,
-      "sponsorship": "friendly"
-    },
-    {
       "id": "YmluZzotODMxMjY4NjA5LlJldHJv",
       "title": "Forward Deployment Engineer",
       "company": "Acuity Analytics",
@@ -765,6 +778,19 @@
       "url": "https://www.linkedin.com/jobs/view/forward-deployment-engineer-at-acuity-analytics-4464500657?trk=bingjobs",
       "source": "LinkedIn",
       "role_category": "Data Engineer",
+      "remote": false,
+      "match_score": 4,
+      "sponsorship": "friendly"
+    },
+    {
+      "id": "YmluZzotMjAwOTY0NzcwNi5SZXRybw",
+      "title": "Data Analyst",
+      "company": "ATC",
+      "location": "WA",
+      "posted_at": "2026-09-09T08:51:37.000Z",
+      "url": "https://www.linkedin.com/jobs/view/data-analyst-at-atc-4463895403?trk=bingjobs",
+      "source": "LinkedIn",
+      "role_category": "Data Analyst",
       "remote": false,
       "match_score": 4,
       "sponsorship": "friendly"
@@ -796,32 +822,6 @@
       "sponsorship": "friendly"
     },
     {
-      "id": "YmluZzoxNDI1NjA4MDM4LlJldHJv",
-      "title": "Analyst, Advanced Analytics",
-      "company": "Wal-Mart.com USA, LLC",
-      "location": "Bentonville, Arkansas",
-      "posted_at": "2026-09-06T00:00:00.000Z",
-      "url": "https://www.careerbuilder.com/job-details/analyst-advanced-analytics-bentonville-ar--3771288e-407d-4583-ba60-9832b2d8f758?trk=bingjobs",
-      "source": "CareerBuilder",
-      "role_category": "Data Engineer",
-      "remote": false,
-      "match_score": 4,
-      "sponsorship": "friendly"
-    },
-    {
-      "id": "YmluZzotMTA3NzkwNDg4OS5SZXRybw",
-      "title": "Applied Scientist",
-      "company": "Adobe",
-      "location": "San José, California",
-      "posted_at": "2026-09-06T00:00:00.000Z",
-      "url": "https://www.careerbuilder.com/job-details/applied-scientist-san-jose-ca--da63252a-25b9-4190-abcd-d360a199d4a3?trk=bingjobs",
-      "source": "CareerBuilder",
-      "role_category": "ML Engineer",
-      "remote": false,
-      "match_score": 4,
-      "sponsorship": "friendly"
-    },
-    {
       "id": "YmluZzoxMjI4MzE1MDE2LlJldHJv",
       "title": "Data Analyst - Risk Adjustment Analytics  Analytics And Insights Engineer III",
       "company": "Deloitte",
@@ -833,45 +833,6 @@
       "remote": false,
       "match_score": 3,
       "sponsorship": "unknown"
-    },
-    {
-      "id": "YmluZzoyMjM2NTIxOTcuUmV0cm8",
-      "title": "Physics AI Scientist III",
-      "company": "Applied Materials",
-      "location": "Santa Clara, California",
-      "posted_at": "2026-09-09T15:55:36.000Z",
-      "url": "https://www.linkedin.com/jobs/view/physics-ai-scientist-iii-at-applied-materials-4451250240?trk=bingjobs",
-      "source": "LinkedIn",
-      "role_category": "ML Engineer",
-      "remote": false,
-      "match_score": 3,
-      "sponsorship": "friendly"
-    },
-    {
-      "id": "YmluZzotNTU1MzUxNzY0LlJldHJv",
-      "title": "Applied Scientist, Amazon Connect",
-      "company": "Amazon Web Services (AWS)",
-      "location": "New York, New York",
-      "posted_at": "2026-09-09T10:27:49.000Z",
-      "url": "https://www.linkedin.com/jobs/view/applied-scientist-amazon-connect-at-amazon-web-services-aws-4455938458?trk=bingjobs",
-      "source": "LinkedIn",
-      "role_category": "ML Engineer",
-      "remote": false,
-      "match_score": 3,
-      "sponsorship": "friendly"
-    },
-    {
-      "id": "YmluZzoxOTY2NTA3MzQwLlJldHJv",
-      "title": "Senior Applied Scientist, Fauna",
-      "company": "Amazon",
-      "location": "New York, New York",
-      "posted_at": "2026-09-09T10:20:32.000Z",
-      "url": "https://www.linkedin.com/jobs/view/senior-applied-scientist-fauna-at-amazon-4455904595?trk=bingjobs",
-      "source": "LinkedIn",
-      "role_category": "ML Engineer",
-      "remote": false,
-      "match_score": 3,
-      "sponsorship": "friendly"
     },
     {
       "id": "YmluZzoxNzUzNDE2MzQwLlJldHJv",
@@ -900,27 +861,14 @@
       "sponsorship": "friendly"
     },
     {
-      "id": "YmluZzotNjEyOTcwNzkzLlJldHJv",
-      "title": "Applied Scientist, Console Science",
+      "id": "YmluZzoxODc1NjMyMDg3LlJldHJv",
+      "title": "Software Development Engineer, Open Data Analytics - Engines",
       "company": "Amazon",
-      "location": "Santa Clara, California",
-      "posted_at": "2026-09-09T07:55:35.000Z",
-      "url": "https://www.linkedin.com/jobs/view/applied-scientist-console-science-at-amazon-web-services-aws-4455794485?trk=bingjobs",
+      "location": "Arlington, Virginia",
+      "posted_at": "2026-09-09T08:31:19.000Z",
+      "url": "https://www.linkedin.com/jobs/view/software-development-engineer-open-data-analytics-engines-at-amazon-web-services-aws-4455920472?trk=bingjobs",
       "source": "LinkedIn",
-      "role_category": "ML Engineer",
-      "remote": false,
-      "match_score": 3,
-      "sponsorship": "friendly"
-    },
-    {
-      "id": "YmluZzoyNDcyNzQ4ODUuUmV0cm8",
-      "title": "Applied Scientist II, Console Science",
-      "company": "Amazon Web Services (AWS)",
-      "location": "Santa Clara, California",
-      "posted_at": "2026-09-09T07:16:43.000Z",
-      "url": "https://www.linkedin.com/jobs/view/applied-scientist-ii-console-science-at-amazon-web-services-aws-4455777997?trk=bingjobs",
-      "source": "LinkedIn",
-      "role_category": "ML Engineer",
+      "role_category": "Data Engineer",
       "remote": false,
       "match_score": 3,
       "sponsorship": "friendly"
@@ -1017,19 +965,6 @@
       "sponsorship": "unknown"
     },
     {
-      "id": "YmluZzotMTc0OTQ5MTMyMS5SZXRybw",
-      "title": "Global Finance Systems & Data Governance Analyst",
-      "company": "balt usa",
-      "location": "Boston, Massachusetts",
-      "posted_at": "2026-09-10T10:15:26.000Z",
-      "url": "https://www.linkedin.com/jobs/view/global-finance-systems-data-governance-analyst-at-balt-usa-4464560569?trk=bingjobs",
-      "source": "LinkedIn",
-      "role_category": "Data Analyst",
-      "remote": false,
-      "match_score": 2,
-      "sponsorship": "friendly"
-    },
-    {
       "id": "YmluZzotMTc1NzM5NzAzOC5SZXRybw",
       "title": "Machine Learning Engineer",
       "company": "Alignerr",
@@ -1069,14 +1004,40 @@
       "sponsorship": "friendly"
     },
     {
-      "id": "YmluZzotMTYyMTQyNDQ2Mi5SZXRybw",
-      "title": "Applied Scientist III - AMZ27579.1",
+      "id": "YmluZzotODc2MDYxMzYzLlJldHJv",
+      "title": "Applied Scientist - Fault-Tolerant Quantum Computing, Amazon Braket",
       "company": "Amazon",
-      "location": "New York, New York",
-      "posted_at": "2026-09-09T04:30:11.000Z",
-      "url": "https://www.linkedin.com/jobs/view/applied-scientist-iii-amz27579-1-at-amazon-4455798109?trk=bingjobs",
+      "location": "NY",
+      "posted_at": "2026-09-09T08:24:08.000Z",
+      "url": "https://www.linkedin.com/jobs/view/applied-scientist-fault-tolerant-quantum-computing-amazon-braket-at-amazon-web-services-aws-4455799943?trk=bingjobs",
       "source": "LinkedIn",
       "role_category": "ML Engineer",
+      "remote": false,
+      "match_score": 2,
+      "sponsorship": "friendly"
+    },
+    {
+      "id": "YmluZzotMjIzNzIxNDIwLlJldHJv",
+      "title": "Senior Applied Scientist, Amazon Brand Stores",
+      "company": "Amazon",
+      "location": "NY",
+      "posted_at": "2026-09-09T05:04:08.000Z",
+      "url": "https://www.linkedin.com/jobs/view/senior-applied-scientist-amazon-brand-stores-at-amazon-4455912039?trk=bingjobs",
+      "source": "LinkedIn",
+      "role_category": "ML Engineer",
+      "remote": false,
+      "match_score": 2,
+      "sponsorship": "friendly"
+    },
+    {
+      "id": "YmluZzotMTU5NjUyMTE0MS5SZXRybw",
+      "title": "Data And Reporting Analyst",
+      "company": "Electrolit",
+      "location": "Houston, Texas",
+      "posted_at": "2026-09-08T09:52:42.000Z",
+      "url": "https://www.linkedin.com/jobs/view/data-and-reporting-analyst-at-electrolit-usa-4464657096?trk=bingjobs",
+      "source": "LinkedIn",
+      "role_category": "Data Analyst",
       "remote": false,
       "match_score": 2,
       "sponsorship": "friendly"
@@ -1093,6 +1054,19 @@
       "remote": false,
       "match_score": 2,
       "sponsorship": "friendly"
+    },
+    {
+      "id": "YmluZzo3NzkzMTQ5NjkuUmV0cm8",
+      "title": "Automation Engineer – Amazon ARS / Controls",
+      "company": "S4 Analytics LLC",
+      "location": "VA",
+      "posted_at": "2026-09-10T11:00:05.000Z",
+      "url": "https://www.linkedin.com/jobs/view/automation-engineer-%E2%80%93-amazon-ars-controls-at-s4-analytics-llc-4465832403?trk=bingjobs",
+      "source": "LinkedIn",
+      "role_category": "Data Engineer",
+      "remote": false,
+      "match_score": 1,
+      "sponsorship": "unknown"
     },
     {
       "id": "YmluZzotNDc2MjA1Mjk5LlJldHJv",
@@ -1134,43 +1108,17 @@
       "sponsorship": "unknown"
     },
     {
-      "id": "YmluZzoyNzMxMjAwNjAuUmV0cm8",
-      "title": "Clinical R Data Scientist Consultant- Remote",
-      "company": "ClinChoice",
-      "location": "Oregon (Remote)",
-      "posted_at": "2026-09-08T17:00:00.000Z",
-      "url": "https://www.ziprecruiter.com/c/clinchoice/Job/Clinical-R-Data-Scientist-Consultant-Remote/-in-Remote,US?jid=020713c9a7295f58&trk=bingjobs",
-      "source": "ZipRecruiter",
-      "role_category": "Data Scientist",
-      "remote": true,
-      "match_score": 1,
-      "sponsorship": "unknown"
-    },
-    {
-      "id": "YmluZzotNjE2MTk4NTYwLlJldHJv",
-      "title": "Scientist - Applied Laser Physics",
-      "company": "TAE Technologies, Inc",
-      "location": "CA",
-      "posted_at": "2026-09-10T06:12:10.000Z",
-      "url": "https://www.linkedin.com/jobs/view/scientist-applied-laser-physics-at-tae-technologies-inc-4429182003?trk=bingjobs",
+      "id": "YmluZzotMTMzMzEwODQ3LlJldHJv",
+      "title": "(USA) Analyst II, Quality Engineer - Supply Chain-2",
+      "company": "Walmart",
+      "location": "Searcy, Arkansas",
+      "posted_at": "2026-09-07T00:00:00.000Z",
+      "url": "https://www.linkedin.com/jobs/view/usa-analyst-ii-quality-engineer-supply-chain-2-at-walmart-4462231719?trk=bingjobs",
       "source": "LinkedIn",
-      "role_category": "ML Engineer",
+      "role_category": "Data Engineer",
       "remote": false,
-      "match_score": 0,
+      "match_score": 1,
       "sponsorship": "friendly"
-    },
-    {
-      "id": "YmluZzotNDI1ODMwNDkuUmV0cm8",
-      "title": "Data Privacy Analyst - Remote",
-      "company": "YO IT Consulting",
-      "location": "California (Remote)",
-      "posted_at": "2026-09-09T18:44:21.000Z",
-      "url": "https://www.linkedin.com/jobs/view/data-privacy-analyst-remote-at-yo-it-consulting-4464165246?trk=bingjobs",
-      "source": "LinkedIn",
-      "role_category": "Data Analyst",
-      "remote": true,
-      "match_score": 0,
-      "sponsorship": "unknown"
     },
     {
       "id": "YmluZzotMjAwOTM5MDg3NS5SZXRybw",
@@ -1199,6 +1147,19 @@
       "sponsorship": "unknown"
     },
     {
+      "id": "YmluZzotNjM1NDg4NTE1LlJldHJv",
+      "title": "Data Analyst - Remote",
+      "company": "YO AI Labs",
+      "location": "New York (Remote)",
+      "posted_at": "2026-09-09T08:18:56.000Z",
+      "url": "https://www.ziprecruiter.com/c/yo-ai-labs/Job/Data-Analyst-Remote/-in-New-York,NY?jid=93f74f817aa63a72&trk=bingjobs",
+      "source": "ZipRecruiter",
+      "role_category": "Data Analyst",
+      "remote": true,
+      "match_score": 0,
+      "sponsorship": "unknown"
+    },
+    {
       "id": "YmluZzotMTQ0NTgyNjQ2Ni5SZXRybw",
       "title": "Data Scientist",
       "company": "Middesk",
@@ -1208,6 +1169,19 @@
       "source": "LinkedIn",
       "role_category": "Data Scientist",
       "remote": false,
+      "match_score": 0,
+      "sponsorship": "unknown"
+    },
+    {
+      "id": "YmluZzoxNDI1OTYzNTMwLlJldHJv",
+      "title": "Data Privacy Analyst - Remote",
+      "company": "YO IT Consulting",
+      "location": "New York (Remote)",
+      "posted_at": "2026-09-06T18:44:11.000Z",
+      "url": "https://www.linkedin.com/jobs/view/data-privacy-analyst-remote-at-yo-it-consulting-4462919280?trk=bingjobs",
+      "source": "LinkedIn",
+      "role_category": "Data Analyst",
+      "remote": true,
       "match_score": 0,
       "sponsorship": "unknown"
     }
