@@ -1,5 +1,110 @@
 {
-  "updated_at": "2026-09-20T16:41:14.166Z",
-  "count": 0,
-  "jobs": []
+  "updated_at": "2026-09-21T18:28:58.249Z",
+  "count": 8,
+  "jobs": [
+    {
+      "id": "QzMzRTRCVkhpSEhKYmJfZEFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTWEpqUTI4eGFFa3dTMWhRZUU4d1NVMTZMVWxDZEdKdGFqRk1hMHhUWjBveFIyUkhlRVJUUW5Od2NWRXdkelp6WmprNE9VdHVVakJOTTNwNk1tWklUbUpCTlV4cWMxYzFZVE5sTjB4S1MwcFNZMWRIUlhGZmNWTlBSRUpsTWxSc1duWlllV1ZwZVU5a2VrOWpWbWQzUzFOaU5UUXRPR0ZHVFd0YVIxWndSbFV0UmtJMVdUWVNGMXBZWlhoaGNHRkRRMDQyVEhObFRWQnlXVzF2ZDFGVkdpSkJSSE55T1daU1ZsWllkamhYTjB0Sk9YUnNiRVZUYVRGdFFteFpRazVqWkRCbg",
+      "title": "Data Scientist 3",
+      "company": "Daikin Comfort",
+      "location": "",
+      "posted_at": "2026-09-19T00:00:00.000Z",
+      "url": "https://www.linkedin.com/jobs/view/data-scientist-3-at-daikin-comfort-4468081272",
+      "source": "LinkedIn",
+      "role_category": "Data Scientist",
+      "remote": false,
+      "match_score": 10,
+      "sponsorship": "friendly"
+    },
+    {
+      "id": "aFkzUXRFZkdkWTJVbXJLX0FBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTVGhHYTJSMFowdE5UbTlZWXpKRWVsTk1XWEZWYjJGWGFYQlZXa3gyVDJ0VFowWnNORmgyV1UxVFJIa3lSVE5WUWtoeGNFdFNlRXAzUmpobWNVOTBWVzV2UVZOUFFrRk1TV3RsVEdsdlUzQktkRXhwWlhWeVMwRXdRWGx6ZW5GNmEzSk1lakpDZGpZeFZHUlRablZrVUdnNGFsbERPRTk0WWpKNlZEQldkekUyV1VKUFgya1NGMXBZWlhoaGNHRkRRMDQyVEhObFRWQnlXVzF2ZDFGVkdpSkJSSE55T1daUlMxVlJXV2RLVDA1eE0yZE5OemgxZDB4NWVXaHlTamREY1ZkQg",
+      "title": "(USA) Senior, Data Scientist - Last Mile Delivery",
+      "company": "Walmart",
+      "location": "",
+      "posted_at": "2026-09-17T00:00:00.000Z",
+      "url": "https://www.linkedin.com/jobs/view/usa-senior-data-scientist-last-mile-delivery-at-walmart-4466635003",
+      "source": "LinkedIn",
+      "role_category": "Data Scientist",
+      "remote": false,
+      "match_score": 10,
+      "sponsorship": "friendly"
+    },
+    {
+      "id": "YlhocWNIQy1PYVJESk9vZUFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTVkEwYlZwaGQyNU9iR2xDVFVnd2RVMUVTMmhyY2xkcFVrRlNVMjAzY2xOZlFWTlNjelp4TkZWbmFuY3pVWGxNVGkxWVVtNTNMWGxUVjJaV2RUSTJVa05XWXpWV1gzWnRkVzE2YTFkT2FEQTVSR1F4Ukhwc2FYcFlVVkZUUm10c1VFUXhTVVU1UVVaM2RGSjVSME13UlVSWWQwSnBjRVZvTkRGc1pGUnNkMmxHY1U5VVJYRVNGMXBZWlhoaGNHRkRRMDQyVEhObFRWQnlXVzF2ZDFGVkdpSkJSSE55T1daUlQzbEVZVzgxUkhCeGNXdE1ZM0J0YzI5WVNXbFRTRFpFTjJwUg",
+      "title": "Data Scientist (Masters)",
+      "company": "Alignerr",
+      "location": "Remote (Remote)",
+      "posted_at": "2026-09-16T00:00:00.000Z",
+      "url": "https://www.linkedin.com/jobs/view/data-scientist-masters-at-alignerr-4468333256",
+      "source": "LinkedIn",
+      "role_category": "Data Scientist",
+      "remote": true,
+      "match_score": 10,
+      "sponsorship": "friendly"
+    },
+    {
+      "id": "enVJc19qbkttU3YtZm5YT0FBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBURFIwTm5kMmJIQXhRWGhPYjBWT1ZEWkxhek51YVhOc1YwRTVWV3BEVERoV1VURk1iQzFWY3pWRFRHWjRWVzlRTkdaUFMyRkthelF5YjBsRVV6WTFibTlzVTBsbE1HMXlSMlkzYmtKaldVbHpTMWgzVUdaNk5ISllUazlzWms5MFIyMTJVVTluUmpOd05XdE9abTVzVjJOUVoybGpaRkZvTldWZlF6STBjMWszVFUwMU5qRVNGMXBZWlhoaGNHRkRRMDQyVEhObFRWQnlXVzF2ZDFGVkdpSkJSSE55T1daVGEwSkxTV2xRZGtsc09Xb3hOa0pKUnpCak9FZDFZemx0U0MxMw",
+      "title": "Data Scientist",
+      "company": "Leidos",
+      "location": "",
+      "posted_at": "2026-09-15T00:00:00.000Z",
+      "url": "https://careers.leidos.com/jobs/18247395-data-scientist",
+      "source": "Leidos Careers",
+      "role_category": "Data Scientist",
+      "remote": false,
+      "match_score": 8,
+      "sponsorship": "friendly"
+    },
+    {
+      "id": "YUZqMlFULWo3Y1d5R21US0FBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTMkoyZVV4UlJubHZkbU5QUTJnM2JIQlVjMmhuTTBRM2JHZHRibUZ3VDJscU4zZDFibWhGZEZwNWN6RktNa1ZoZEZkMWFVSkxVamR3U0ZOaGJrWkZVWGRZZG5kWmJqaHRVRTh0VWxsQ05VbHFWelo0WTNoVE5sZGtOMUpKVWsxSmNVNTZWR3AyT0cxaWVYbzNPV3BSTW5CeVFXbDFaR2Q1TlZSeVNYWjRiSEo2UkRsaGNqUVNGMXBZWlhoaGNHRkRRMDQyVEhObFRWQnlXVzF2ZDFGVkdpSkJSSE55T1daUlprWm9jSEJGU21ZeWQwaGxhVWx2ZUc1eGNIYzRaV2w1UzAxMw",
+      "title": "Senior Data Scientist",
+      "company": "Ignite IT",
+      "location": "",
+      "posted_at": "2026-09-15T00:00:00.000Z",
+      "url": "https://www.linkedin.com/jobs/view/senior-data-scientist-at-ignite-it-4465556667",
+      "source": "LinkedIn",
+      "role_category": "Data Scientist",
+      "remote": false,
+      "match_score": 7,
+      "sponsorship": "unknown"
+    },
+    {
+      "id": "ZnV4bGtXOXJGem1wM09yOEFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTVWM1ZUZCVFRHWXdhRU5tWlRsS05qTkVUSFY0VERFeFN6bGlSR1ZtWkMxU1JVbDVSVVZuVVRneVYxWkhkblpXZERSWlVUZHlWRzVuTjBWV1ZXVmFhV1paTmpKdWFXRjVNa3B3ZEZCelRFRkxSVk5tTW14dFJITnRiVFpYU1hSVGMxaEZXblpXUjBWbllsSldPVlpxYkU0elZsQndOVXRzWmtOU2FUZ3lMWE5YYVRsSlNtWVNGMXBZWlhoaGNHRkRRMDQyVEhObFRWQnlXVzF2ZDFGVkdpSkJSSE55T1daUmVWbzJkbUZqTVVZeU9WZG1aVEpTZEdoTWNtbFZNMFZVZUhobg",
+      "title": "Data Scientist",
+      "company": "ERGO | Munich Re | MEAG",
+      "location": "",
+      "posted_at": "2026-09-14T00:00:00.000Z",
+      "url": "https://careers.munichre.com/de/stellenbeschreibung/amelia/data-scientist/3342/44681290880",
+      "source": "Munich Re",
+      "role_category": "Data Scientist",
+      "remote": false,
+      "match_score": 7,
+      "sponsorship": "friendly"
+    },
+    {
+      "id": "X1JXcDRna2J0M3Z6ZjdOdkFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBUSGhDWkY5cVIyZElOMEV6ZG1RMlUyaGlVbU55UkRkTlZUVjBUVmhoWm13M2FVTlNZVzE2UmpadVltRlVVbGN0VjJObVIwazFMVEZvVVhwaFFsQjBZMWxITkRaNWRIVnRPVGQwTURjMWQyZFdPV3RNUlV4YWJUVk1XbXRRYWw5ZlVHRm1UMG8wYVhOQ2NWZHdaMWt4UTA5SWNrWjRURXhGWVZnd2EzaEZYMVp2Um5KMVJqWVNGMXBZWlhoaGNHRkRRMDQyVEhObFRWQnlXVzF2ZDFGVkdpSkJSSE55T1daVFZFWXlUM1JvTnpjemJrZHphRUYzYWpRNFN6SjJaRXBaV1Y5Qg",
+      "title": "Data Scientist II, Amazon Travel & Events",
+      "company": "Amazon Science",
+      "location": "",
+      "posted_at": "2026-09-19T00:00:00.000Z",
+      "url": "https://www.linkedin.com/jobs/view/data-scientist-ii-amazon-travel-events-at-amazon-science-4466964670",
+      "source": "LinkedIn",
+      "role_category": "Data Scientist",
+      "remote": false,
+      "match_score": 5,
+      "sponsorship": "friendly"
+    },
+    {
+      "id": "N2RPc2IwemNlUGwyUTJPREFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTMVZvVkVKMVpsbExaVGhtVjFOWU9WTTNiRTAzZVVGcWVrcHlMVlJRZFZnMVh6RmFkRmh2TUdOaU9YTm1hMWxOY0ZsM2VtOU9SbWQ2WnpadVdWcGpTVXg1Y0dseGJFNW1XRVZKUVRsZldWSjNiVmhqVTNCMVRqQldUVlZLVTFocVRGbFRRMUZIWTFORlZXMWtTME0yZUV3NVptUmhZV0pDUVVOWGJYQnpia1l6V2xOR1VrRVNGMXBZWlhoaGNHRkRRMDQyVEhObFRWQnlXVzF2ZDFGVkdpSkJSSE55T1daUlVXcFNRMlU0WWxabFQwRklOM1Z5UjBobFVUVkhkMWt6WVVsMw",
+      "title": "Data Scientist - Secret",
+      "company": "Parsons Corporation",
+      "location": "",
+      "posted_at": "2026-09-15T00:00:00.000Z",
+      "url": "https://www.builtincolorado.com/job/data-scientist-secret/11198286",
+      "source": "Built In Colorado",
+      "role_category": "Data Scientist",
+      "remote": false,
+      "match_score": 5,
+      "sponsorship": "no"
+    }
+  ]
 }
